@@ -1,0 +1,29 @@
+.CityTable .ReactTable .rt-tbody {
+    font-size: 0.9em;
+}
+
+.CityTable .ReactTable .rt-table {
+    flex: auto 1;
+}
+
+.CityTable .ReactTable .rt-thead {
+    overflow-y: scroll;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.CityTable .ReactTable .rt-head .rt-tr {
+    /* text-align: left; */
+}
+
+.CityTable .ReactTable .right-cell {
+    text-align: right;
+}
+
+.CityTable .ReactTable .rt-th, .CityTable .ReactTable .rt-td {
+    white-space: normal;
+}
+
+.CityTable .rt-th svg {
+    width: 0.8em;
+    height: 0.8em;
+}

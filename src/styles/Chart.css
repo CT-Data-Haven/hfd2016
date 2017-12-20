@@ -1,0 +1,19 @@
+.Chart {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+	font-size: 0.85em;
+    position: relative;
+}
+
+.Chart g.vx-axis line {
+    stroke: #999;
+    stroke-width: 1px;
+}
+
+.Chart g.cx-group rect.bar {
+    transition: fill 200ms ease-in-out;
+    cursor: pointer;
+}
+
+.Chart g.vx-axis-left text {
+    /* text-overflow: ellipsis; */
+}

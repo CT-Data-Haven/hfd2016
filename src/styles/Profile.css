@@ -1,0 +1,11 @@
+.Profile {
+	font-size: 0.9em;
+}
+
+.Profile .strong {
+	font-weight: bold;
+}
+
+.Profile .map-list .list-text {
+	margin-left: 0.8em;
+}
