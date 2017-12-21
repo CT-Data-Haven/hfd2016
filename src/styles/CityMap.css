@@ -2,14 +2,19 @@
 	max-width: 600px;
 }
 
-.CityMap .vx-geo-mercator {
+.CityMap path.filled-map {
 	cursor: pointer;
 	transition: fill 300ms, opacity 300ms;
 	opacity: 0.8;
 }
 
-.CityMap .vx-geo-mercator:hover {
+.CityMap path.filled-map:hover {
 	opacity: 1;
+}
+
+.CityMap path.empty-map {
+	pointer-events: none;
+	fill-opacity: 0;
 }
 
 .CityMap .legend-container {

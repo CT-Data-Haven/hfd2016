@@ -1,4 +1,5 @@
 import React from 'react';
+import * as _ from 'underscore';
 import { Mercator } from '@vx/geo';
 import { ScaleSVG } from '@vx/responsive';
 import { LegendThreshold } from '@vx/legend';
@@ -11,9 +12,8 @@ import '../styles/CityMap.css';
 
 const center = [-72.7192, 41.758];
 const shape = topojson.feature(topology, topology.objects.hfd_shape);
-const blobs = topojson.merge(topology, topology.objects.hfd_shape.geometries);
-console.log(shape);
-console.log(blobs);
+const mesh = [topojson.mesh(topology, topology.objects.hfd_shape, (a, b) => a.properties.Town !== b.properties.Town)];
+const merge = [topojson.merge(topology, topology.objects.hfd_shape.geometries)];
 
 const tipStyle = {
 	style: {
@@ -81,15 +81,6 @@ export default class CityMap extends React.Component {
 		return (
 			<div className="CityMap" id="map">
 				<ScaleSVG width={width} height={height}>
-					{/* <Mercator
-						data={blobs.coordinates}
-						scale={210000}
-						center={center}
-						translate={[ width / 2, height / 2]}
-						stroke={'#222'}
-						strokeWidth={4}
-						fill={'transparent'}
-					/> */}
 					<Mercator
 						data={shape.features}
 						id={this.makeId}
@@ -107,6 +98,27 @@ export default class CityMap extends React.Component {
 						onMouseLeave={(geography) => (event) => {
 							this.hideTooltip();
 						}}
+						className="filled-map"
+					/>
+					<Mercator
+						data={mesh}
+						scale={210000}
+						center={center}
+						translate={[ width / 2, height / 2]}
+						stroke={'#222'}
+						strokeWidth={2}
+						fill={'transparent'}
+						className="empty-map"
+					/>
+					<Mercator
+						data={merge}
+						scale={210000}
+						center={center}
+						translate={[ width / 2, height / 2]}
+						stroke={'#222'}
+						strokeWidth={2}
+						fill={'transparent'}
+						className="empty-map"
 					/>
 				</ScaleSVG>
 
