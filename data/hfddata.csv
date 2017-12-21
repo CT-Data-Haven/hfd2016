@@ -1,0 +1,1074 @@
+neighborhood,Town,geoType,indicator,value,topic,displayTopic,type,format,order,topicOrder
+Connecticut,,3_state,Total population,3588570,age,Age,table,",",1,1
+Hartford,,2_city,Total population,124320,age,Age,table,",",1,1
+West Hartford,,2_city,Total population,63187,age,Age,table,",",1,1
+Asylum Hill,Hartford,1_neighborhood,Total population,9609,age,Age,table,",",1,1
+Barry Square,Hartford,1_neighborhood,Total population,15752,age,Age,table,",",1,1
+Behind the Rocks,Hartford,1_neighborhood,Total population,8155,age,Age,table,",",1,1
+Blue Hills,Hartford,1_neighborhood,Total population,11640,age,Age,table,",",1,1
+Clay Arsenal,Hartford,1_neighborhood,Total population,7159,age,Age,table,",",1,1
+Downtown,Hartford,1_neighborhood,Total population,1986,age,Age,table,",",1,1
+Frog Hollow,Hartford,1_neighborhood,Total population,8871,age,Age,table,",",1,1
+Northeast,Hartford,1_neighborhood,Total population,11076,age,Age,table,",",1,1
+Parkville,Hartford,1_neighborhood,Total population,4613,age,Age,table,",",1,1
+Sheldon Charter Oak,Hartford,1_neighborhood,Total population,3252,age,Age,table,",",1,1
+South End & South Meadows,Hartford,1_neighborhood,Total population,14420,age,Age,table,",",1,1
+South Green,Hartford,1_neighborhood,Total population,2231,age,Age,table,",",1,1
+Southwest,Hartford,1_neighborhood,Total population,7508,age,Age,table,",",1,1
+Upper Albany,Hartford,1_neighborhood,Total population,7012,age,Age,table,",",1,1
+West End,Hartford,1_neighborhood,Total population,9931,age,Age,table,",",1,1
+Bishops Corner West,West Hartford,1_neighborhood,Total population,7952,age,Age,table,",",1,1
+Buena Vista,West Hartford,1_neighborhood,Total population,2630,age,Age,table,",",1,1
+Corbins Corner,West Hartford,1_neighborhood,Total population,4367,age,Age,table,",",1,1
+Elizabeth Park,West Hartford,1_neighborhood,Total population,4462,age,Age,table,",",1,1
+Farmington East,West Hartford,1_neighborhood,Total population,10603,age,Age,table,",",1,1
+Golf Acres,West Hartford,1_neighborhood,Total population,7345,age,Age,table,",",1,1
+Kennedy Park,West Hartford,1_neighborhood,Total population,3971,age,Age,table,",",1,1
+Mountain West,West Hartford,1_neighborhood,Total population,4453,age,Age,table,",",1,1
+New Park,West Hartford,1_neighborhood,Total population,6076,age,Age,table,",",1,1
+Rockledge,West Hartford,1_neighborhood,Total population,6433,age,Age,table,",",1,1
+West Hartford Center,West Hartford,1_neighborhood,Total population,4895,age,Age,table,",",1,1
+Connecticut,,3_state,Population under age 18,773652,age,Age,table,",",2,2
+Hartford,,2_city,Population under age 18,30772,age,Age,table,",",2,2
+West Hartford,,2_city,Population under age 18,14272,age,Age,table,",",2,2
+Asylum Hill,Hartford,1_neighborhood,Population under age 18,1785,age,Age,table,",",2,2
+Barry Square,Hartford,1_neighborhood,Population under age 18,3910,age,Age,table,",",2,2
+Behind the Rocks,Hartford,1_neighborhood,Population under age 18,2342,age,Age,table,",",2,2
+Blue Hills,Hartford,1_neighborhood,Population under age 18,2288,age,Age,table,",",2,2
+Clay Arsenal,Hartford,1_neighborhood,Population under age 18,2551,age,Age,table,",",2,2
+Downtown,Hartford,1_neighborhood,Population under age 18,46,age,Age,table,",",2,2
+Frog Hollow,Hartford,1_neighborhood,Population under age 18,2688,age,Age,table,",",2,2
+Northeast,Hartford,1_neighborhood,Population under age 18,3493,age,Age,table,",",2,2
+Parkville,Hartford,1_neighborhood,Population under age 18,1322,age,Age,table,",",2,2
+Sheldon Charter Oak,Hartford,1_neighborhood,Population under age 18,723,age,Age,table,",",2,2
+South End & South Meadows,Hartford,1_neighborhood,Population under age 18,3817,age,Age,table,",",2,2
+South Green,Hartford,1_neighborhood,Population under age 18,472,age,Age,table,",",2,2
+Southwest,Hartford,1_neighborhood,Population under age 18,1689,age,Age,table,",",2,2
+Upper Albany,Hartford,1_neighborhood,Population under age 18,2313,age,Age,table,",",2,2
+West End,Hartford,1_neighborhood,Population under age 18,1320,age,Age,table,",",2,2
+Bishops Corner West,West Hartford,1_neighborhood,Population under age 18,1939,age,Age,table,",",2,2
+Buena Vista,West Hartford,1_neighborhood,Population under age 18,542,age,Age,table,",",2,2
+Corbins Corner,West Hartford,1_neighborhood,Population under age 18,913,age,Age,table,",",2,2
+Elizabeth Park,West Hartford,1_neighborhood,Population under age 18,1166,age,Age,table,",",2,2
+Farmington East,West Hartford,1_neighborhood,Population under age 18,2098,age,Age,table,",",2,2
+Golf Acres,West Hartford,1_neighborhood,Population under age 18,1530,age,Age,table,",",2,2
+Kennedy Park,West Hartford,1_neighborhood,Population under age 18,879,age,Age,table,",",2,2
+Mountain West,West Hartford,1_neighborhood,Population under age 18,1207,age,Age,table,",",2,2
+New Park,West Hartford,1_neighborhood,Population under age 18,1187,age,Age,table,",",2,2
+Rockledge,West Hartford,1_neighborhood,Population under age 18,1633,age,Age,table,",",2,2
+West Hartford Center,West Hartford,1_neighborhood,Population under age 18,1178,age,Age,table,",",2,2
+Connecticut,,3_state,Percent under age 18,0.216,age,Age,map,.0%,3,3
+Hartford,,2_city,Percent under age 18,0.248,age,Age,map,.0%,3,3
+West Hartford,,2_city,Percent under age 18,0.226,age,Age,map,.0%,3,3
+Asylum Hill,Hartford,1_neighborhood,Percent under age 18,0.186,age,Age,map,.0%,3,3
+Barry Square,Hartford,1_neighborhood,Percent under age 18,0.248,age,Age,map,.0%,3,3
+Behind the Rocks,Hartford,1_neighborhood,Percent under age 18,0.287,age,Age,map,.0%,3,3
+Blue Hills,Hartford,1_neighborhood,Percent under age 18,0.197,age,Age,map,.0%,3,3
+Clay Arsenal,Hartford,1_neighborhood,Percent under age 18,0.356,age,Age,map,.0%,3,3
+Downtown,Hartford,1_neighborhood,Percent under age 18,0.023,age,Age,map,.0%,3,3
+Frog Hollow,Hartford,1_neighborhood,Percent under age 18,0.303,age,Age,map,.0%,3,3
+Northeast,Hartford,1_neighborhood,Percent under age 18,0.315,age,Age,map,.0%,3,3
+Parkville,Hartford,1_neighborhood,Percent under age 18,0.287,age,Age,map,.0%,3,3
+Sheldon Charter Oak,Hartford,1_neighborhood,Percent under age 18,0.222,age,Age,map,.0%,3,3
+South End & South Meadows,Hartford,1_neighborhood,Percent under age 18,0.265,age,Age,map,.0%,3,3
+South Green,Hartford,1_neighborhood,Percent under age 18,0.212,age,Age,map,.0%,3,3
+Southwest,Hartford,1_neighborhood,Percent under age 18,0.225,age,Age,map,.0%,3,3
+Upper Albany,Hartford,1_neighborhood,Percent under age 18,0.33,age,Age,map,.0%,3,3
+West End,Hartford,1_neighborhood,Percent under age 18,0.133,age,Age,map,.0%,3,3
+Bishops Corner West,West Hartford,1_neighborhood,Percent under age 18,0.244,age,Age,map,.0%,3,3
+Buena Vista,West Hartford,1_neighborhood,Percent under age 18,0.206,age,Age,map,.0%,3,3
+Corbins Corner,West Hartford,1_neighborhood,Percent under age 18,0.209,age,Age,map,.0%,3,3
+Elizabeth Park,West Hartford,1_neighborhood,Percent under age 18,0.261,age,Age,map,.0%,3,3
+Farmington East,West Hartford,1_neighborhood,Percent under age 18,0.198,age,Age,map,.0%,3,3
+Golf Acres,West Hartford,1_neighborhood,Percent under age 18,0.208,age,Age,map,.0%,3,3
+Kennedy Park,West Hartford,1_neighborhood,Percent under age 18,0.221,age,Age,map,.0%,3,3
+Mountain West,West Hartford,1_neighborhood,Percent under age 18,0.271,age,Age,map,.0%,3,3
+New Park,West Hartford,1_neighborhood,Percent under age 18,0.195,age,Age,map,.0%,3,3
+Rockledge,West Hartford,1_neighborhood,Percent under age 18,0.254,age,Age,map,.0%,3,3
+West Hartford Center,West Hartford,1_neighborhood,Percent under age 18,0.241,age,Age,map,.0%,3,3
+Connecticut,,3_state,Population ages 65+,555023,age,Age,table,",",4,4
+Hartford,,2_city,Population ages 65+,12310,age,Age,table,",",4,4
+West Hartford,,2_city,Population ages 65+,11077,age,Age,table,",",4,4
+Asylum Hill,Hartford,1_neighborhood,Population ages 65+,954,age,Age,table,",",4,4
+Barry Square,Hartford,1_neighborhood,Population ages 65+,1105,age,Age,table,",",4,4
+Behind the Rocks,Hartford,1_neighborhood,Population ages 65+,767,age,Age,table,",",4,4
+Blue Hills,Hartford,1_neighborhood,Population ages 65+,1439,age,Age,table,",",4,4
+Clay Arsenal,Hartford,1_neighborhood,Population ages 65+,530,age,Age,table,",",4,4
+Downtown,Hartford,1_neighborhood,Population ages 65+,203,age,Age,table,",",4,4
+Frog Hollow,Hartford,1_neighborhood,Population ages 65+,708,age,Age,table,",",4,4
+Northeast,Hartford,1_neighborhood,Population ages 65+,1045,age,Age,table,",",4,4
+Parkville,Hartford,1_neighborhood,Population ages 65+,536,age,Age,table,",",4,4
+Sheldon Charter Oak,Hartford,1_neighborhood,Population ages 65+,465,age,Age,table,",",4,4
+South End & South Meadows,Hartford,1_neighborhood,Population ages 65+,1198,age,Age,table,",",4,4
+South Green,Hartford,1_neighborhood,Population ages 65+,316,age,Age,table,",",4,4
+Southwest,Hartford,1_neighborhood,Population ages 65+,1021,age,Age,table,",",4,4
+Upper Albany,Hartford,1_neighborhood,Population ages 65+,738,age,Age,table,",",4,4
+West End,Hartford,1_neighborhood,Population ages 65+,1285,age,Age,table,",",4,4
+Bishops Corner West,West Hartford,1_neighborhood,Population ages 65+,1648,age,Age,table,",",4,4
+Buena Vista,West Hartford,1_neighborhood,Population ages 65+,636,age,Age,table,",",4,4
+Corbins Corner,West Hartford,1_neighborhood,Population ages 65+,843,age,Age,table,",",4,4
+Elizabeth Park,West Hartford,1_neighborhood,Population ages 65+,760,age,Age,table,",",4,4
+Farmington East,West Hartford,1_neighborhood,Population ages 65+,1959,age,Age,table,",",4,4
+Golf Acres,West Hartford,1_neighborhood,Population ages 65+,1758,age,Age,table,",",4,4
+Kennedy Park,West Hartford,1_neighborhood,Population ages 65+,370,age,Age,table,",",4,4
+Mountain West,West Hartford,1_neighborhood,Population ages 65+,777,age,Age,table,",",4,4
+New Park,West Hartford,1_neighborhood,Population ages 65+,647,age,Age,table,",",4,4
+Rockledge,West Hartford,1_neighborhood,Population ages 65+,1020,age,Age,table,",",4,4
+West Hartford Center,West Hartford,1_neighborhood,Population ages 65+,659,age,Age,table,",",4,4
+Connecticut,,3_state,Percent ages 65+,0.155,age,Age,map,.0%,5,5
+Hartford,,2_city,Percent ages 65+,0.099,age,Age,map,.0%,5,5
+West Hartford,,2_city,Percent ages 65+,0.175,age,Age,map,.0%,5,5
+Asylum Hill,Hartford,1_neighborhood,Percent ages 65+,0.099,age,Age,map,.0%,5,5
+Barry Square,Hartford,1_neighborhood,Percent ages 65+,0.07,age,Age,map,.0%,5,5
+Behind the Rocks,Hartford,1_neighborhood,Percent ages 65+,0.094,age,Age,map,.0%,5,5
+Blue Hills,Hartford,1_neighborhood,Percent ages 65+,0.124,age,Age,map,.0%,5,5
+Clay Arsenal,Hartford,1_neighborhood,Percent ages 65+,0.074,age,Age,map,.0%,5,5
+Downtown,Hartford,1_neighborhood,Percent ages 65+,0.102,age,Age,map,.0%,5,5
+Frog Hollow,Hartford,1_neighborhood,Percent ages 65+,0.08,age,Age,map,.0%,5,5
+Northeast,Hartford,1_neighborhood,Percent ages 65+,0.094,age,Age,map,.0%,5,5
+Parkville,Hartford,1_neighborhood,Percent ages 65+,0.116,age,Age,map,.0%,5,5
+Sheldon Charter Oak,Hartford,1_neighborhood,Percent ages 65+,0.143,age,Age,map,.0%,5,5
+South End & South Meadows,Hartford,1_neighborhood,Percent ages 65+,0.083,age,Age,map,.0%,5,5
+South Green,Hartford,1_neighborhood,Percent ages 65+,0.142,age,Age,map,.0%,5,5
+Southwest,Hartford,1_neighborhood,Percent ages 65+,0.136,age,Age,map,.0%,5,5
+Upper Albany,Hartford,1_neighborhood,Percent ages 65+,0.105,age,Age,map,.0%,5,5
+West End,Hartford,1_neighborhood,Percent ages 65+,0.129,age,Age,map,.0%,5,5
+Bishops Corner West,West Hartford,1_neighborhood,Percent ages 65+,0.207,age,Age,map,.0%,5,5
+Buena Vista,West Hartford,1_neighborhood,Percent ages 65+,0.242,age,Age,map,.0%,5,5
+Corbins Corner,West Hartford,1_neighborhood,Percent ages 65+,0.193,age,Age,map,.0%,5,5
+Elizabeth Park,West Hartford,1_neighborhood,Percent ages 65+,0.17,age,Age,map,.0%,5,5
+Farmington East,West Hartford,1_neighborhood,Percent ages 65+,0.185,age,Age,map,.0%,5,5
+Golf Acres,West Hartford,1_neighborhood,Percent ages 65+,0.239,age,Age,map,.0%,5,5
+Kennedy Park,West Hartford,1_neighborhood,Percent ages 65+,0.093,age,Age,map,.0%,5,5
+Mountain West,West Hartford,1_neighborhood,Percent ages 65+,0.174,age,Age,map,.0%,5,5
+New Park,West Hartford,1_neighborhood,Percent ages 65+,0.106,age,Age,map,.0%,5,5
+Rockledge,West Hartford,1_neighborhood,Percent ages 65+,0.159,age,Age,map,.0%,5,5
+West Hartford Center,West Hartford,1_neighborhood,Percent ages 65+,0.135,age,Age,map,.0%,5,5
+Connecticut,,3_state,Total population,3588570,race,Race and ethnicity,table,",",1,6
+Hartford,,2_city,Total population,124320,race,Race and ethnicity,table,",",1,6
+West Hartford,,2_city,Total population,63187,race,Race and ethnicity,table,",",1,6
+Asylum Hill,Hartford,1_neighborhood,Total population,9609,race,Race and ethnicity,table,",",1,6
+Barry Square,Hartford,1_neighborhood,Total population,15752,race,Race and ethnicity,table,",",1,6
+Behind the Rocks,Hartford,1_neighborhood,Total population,8155,race,Race and ethnicity,table,",",1,6
+Blue Hills,Hartford,1_neighborhood,Total population,11640,race,Race and ethnicity,table,",",1,6
+Clay Arsenal,Hartford,1_neighborhood,Total population,7159,race,Race and ethnicity,table,",",1,6
+Downtown,Hartford,1_neighborhood,Total population,1986,race,Race and ethnicity,table,",",1,6
+Frog Hollow,Hartford,1_neighborhood,Total population,8871,race,Race and ethnicity,table,",",1,6
+Northeast,Hartford,1_neighborhood,Total population,11076,race,Race and ethnicity,table,",",1,6
+Parkville,Hartford,1_neighborhood,Total population,4613,race,Race and ethnicity,table,",",1,6
+Sheldon Charter Oak,Hartford,1_neighborhood,Total population,3252,race,Race and ethnicity,table,",",1,6
+South End & South Meadows,Hartford,1_neighborhood,Total population,14420,race,Race and ethnicity,table,",",1,6
+South Green,Hartford,1_neighborhood,Total population,2231,race,Race and ethnicity,table,",",1,6
+Southwest,Hartford,1_neighborhood,Total population,7508,race,Race and ethnicity,table,",",1,6
+Upper Albany,Hartford,1_neighborhood,Total population,7012,race,Race and ethnicity,table,",",1,6
+West End,Hartford,1_neighborhood,Total population,9931,race,Race and ethnicity,table,",",1,6
+Bishops Corner West,West Hartford,1_neighborhood,Total population,7952,race,Race and ethnicity,table,",",1,6
+Buena Vista,West Hartford,1_neighborhood,Total population,2630,race,Race and ethnicity,table,",",1,6
+Corbins Corner,West Hartford,1_neighborhood,Total population,4367,race,Race and ethnicity,table,",",1,6
+Elizabeth Park,West Hartford,1_neighborhood,Total population,4462,race,Race and ethnicity,table,",",1,6
+Farmington East,West Hartford,1_neighborhood,Total population,10603,race,Race and ethnicity,table,",",1,6
+Golf Acres,West Hartford,1_neighborhood,Total population,7345,race,Race and ethnicity,table,",",1,6
+Kennedy Park,West Hartford,1_neighborhood,Total population,3971,race,Race and ethnicity,table,",",1,6
+Mountain West,West Hartford,1_neighborhood,Total population,4453,race,Race and ethnicity,table,",",1,6
+New Park,West Hartford,1_neighborhood,Total population,6076,race,Race and ethnicity,table,",",1,6
+Rockledge,West Hartford,1_neighborhood,Total population,6433,race,Race and ethnicity,table,",",1,6
+West Hartford Center,West Hartford,1_neighborhood,Total population,4895,race,Race and ethnicity,table,",",1,6
+Connecticut,,3_state,Latino population,537728,race,Race and ethnicity,table,",",2,7
+Hartford,,2_city,Latino population,54710,race,Race and ethnicity,table,",",2,7
+West Hartford,,2_city,Latino population,6129,race,Race and ethnicity,table,",",2,7
+Asylum Hill,Hartford,1_neighborhood,Latino population,2467,race,Race and ethnicity,table,",",2,7
+Barry Square,Hartford,1_neighborhood,Latino population,9361,race,Race and ethnicity,table,",",2,7
+Behind the Rocks,Hartford,1_neighborhood,Latino population,5525,race,Race and ethnicity,table,",",2,7
+Blue Hills,Hartford,1_neighborhood,Latino population,825,race,Race and ethnicity,table,",",2,7
+Clay Arsenal,Hartford,1_neighborhood,Latino population,4253,race,Race and ethnicity,table,",",2,7
+Downtown,Hartford,1_neighborhood,Latino population,252,race,Race and ethnicity,table,",",2,7
+Frog Hollow,Hartford,1_neighborhood,Latino population,6304,race,Race and ethnicity,table,",",2,7
+Northeast,Hartford,1_neighborhood,Latino population,2707,race,Race and ethnicity,table,",",2,7
+Parkville,Hartford,1_neighborhood,Latino population,2705,race,Race and ethnicity,table,",",2,7
+Sheldon Charter Oak,Hartford,1_neighborhood,Latino population,1590,race,Race and ethnicity,table,",",2,7
+South End & South Meadows,Hartford,1_neighborhood,Latino population,8279,race,Race and ethnicity,table,",",2,7
+South Green,Hartford,1_neighborhood,Latino population,1468,race,Race and ethnicity,table,",",2,7
+Southwest,Hartford,1_neighborhood,Latino population,4826,race,Race and ethnicity,table,",",2,7
+Upper Albany,Hartford,1_neighborhood,Latino population,1288,race,Race and ethnicity,table,",",2,7
+West End,Hartford,1_neighborhood,Latino population,2487,race,Race and ethnicity,table,",",2,7
+Bishops Corner West,West Hartford,1_neighborhood,Latino population,605,race,Race and ethnicity,table,",",2,7
+Buena Vista,West Hartford,1_neighborhood,Latino population,29,race,Race and ethnicity,table,",",2,7
+Corbins Corner,West Hartford,1_neighborhood,Latino population,576,race,Race and ethnicity,table,",",2,7
+Elizabeth Park,West Hartford,1_neighborhood,Latino population,113,race,Race and ethnicity,table,",",2,7
+Farmington East,West Hartford,1_neighborhood,Latino population,1148,race,Race and ethnicity,table,",",2,7
+Golf Acres,West Hartford,1_neighborhood,Latino population,540,race,Race and ethnicity,table,",",2,7
+Kennedy Park,West Hartford,1_neighborhood,Latino population,747,race,Race and ethnicity,table,",",2,7
+Mountain West,West Hartford,1_neighborhood,Latino population,79,race,Race and ethnicity,table,",",2,7
+New Park,West Hartford,1_neighborhood,Latino population,1543,race,Race and ethnicity,table,",",2,7
+Rockledge,West Hartford,1_neighborhood,Latino population,519,race,Race and ethnicity,table,",",2,7
+West Hartford Center,West Hartford,1_neighborhood,Latino population,230,race,Race and ethnicity,table,",",2,7
+Connecticut,,3_state,Percent Latino,0.15,race,Race and ethnicity,map,.0%,3,8
+Hartford,,2_city,Percent Latino,0.44,race,Race and ethnicity,map,.0%,3,8
+West Hartford,,2_city,Percent Latino,0.097,race,Race and ethnicity,map,.0%,3,8
+Asylum Hill,Hartford,1_neighborhood,Percent Latino,0.257,race,Race and ethnicity,map,.0%,3,8
+Barry Square,Hartford,1_neighborhood,Percent Latino,0.594,race,Race and ethnicity,map,.0%,3,8
+Behind the Rocks,Hartford,1_neighborhood,Percent Latino,0.677,race,Race and ethnicity,map,.0%,3,8
+Blue Hills,Hartford,1_neighborhood,Percent Latino,0.071,race,Race and ethnicity,map,.0%,3,8
+Clay Arsenal,Hartford,1_neighborhood,Percent Latino,0.594,race,Race and ethnicity,map,.0%,3,8
+Downtown,Hartford,1_neighborhood,Percent Latino,0.127,race,Race and ethnicity,map,.0%,3,8
+Frog Hollow,Hartford,1_neighborhood,Percent Latino,0.711,race,Race and ethnicity,map,.0%,3,8
+Northeast,Hartford,1_neighborhood,Percent Latino,0.244,race,Race and ethnicity,map,.0%,3,8
+Parkville,Hartford,1_neighborhood,Percent Latino,0.586,race,Race and ethnicity,map,.0%,3,8
+Sheldon Charter Oak,Hartford,1_neighborhood,Percent Latino,0.489,race,Race and ethnicity,map,.0%,3,8
+South End & South Meadows,Hartford,1_neighborhood,Percent Latino,0.574,race,Race and ethnicity,map,.0%,3,8
+South Green,Hartford,1_neighborhood,Percent Latino,0.658,race,Race and ethnicity,map,.0%,3,8
+Southwest,Hartford,1_neighborhood,Percent Latino,0.643,race,Race and ethnicity,map,.0%,3,8
+Upper Albany,Hartford,1_neighborhood,Percent Latino,0.184,race,Race and ethnicity,map,.0%,3,8
+West End,Hartford,1_neighborhood,Percent Latino,0.25,race,Race and ethnicity,map,.0%,3,8
+Bishops Corner West,West Hartford,1_neighborhood,Percent Latino,0.076,race,Race and ethnicity,map,.0%,3,8
+Buena Vista,West Hartford,1_neighborhood,Percent Latino,0.011,race,Race and ethnicity,map,.0%,3,8
+Corbins Corner,West Hartford,1_neighborhood,Percent Latino,0.132,race,Race and ethnicity,map,.0%,3,8
+Elizabeth Park,West Hartford,1_neighborhood,Percent Latino,0.025,race,Race and ethnicity,map,.0%,3,8
+Farmington East,West Hartford,1_neighborhood,Percent Latino,0.108,race,Race and ethnicity,map,.0%,3,8
+Golf Acres,West Hartford,1_neighborhood,Percent Latino,0.074,race,Race and ethnicity,map,.0%,3,8
+Kennedy Park,West Hartford,1_neighborhood,Percent Latino,0.188,race,Race and ethnicity,map,.0%,3,8
+Mountain West,West Hartford,1_neighborhood,Percent Latino,0.018,race,Race and ethnicity,map,.0%,3,8
+New Park,West Hartford,1_neighborhood,Percent Latino,0.254,race,Race and ethnicity,map,.0%,3,8
+Rockledge,West Hartford,1_neighborhood,Percent Latino,0.081,race,Race and ethnicity,map,.0%,3,8
+West Hartford Center,West Hartford,1_neighborhood,Percent Latino,0.047,race,Race and ethnicity,map,.0%,3,8
+Connecticut,,3_state,White population,2464450,race,Race and ethnicity,table,",",4,9
+Hartford,,2_city,White population,19226,race,Race and ethnicity,table,",",4,9
+West Hartford,,2_city,White population,46978,race,Race and ethnicity,table,",",4,9
+Asylum Hill,Hartford,1_neighborhood,White population,1282,race,Race and ethnicity,table,",",4,9
+Barry Square,Hartford,1_neighborhood,White population,2673,race,Race and ethnicity,table,",",4,9
+Behind the Rocks,Hartford,1_neighborhood,White population,825,race,Race and ethnicity,table,",",4,9
+Blue Hills,Hartford,1_neighborhood,White population,2124,race,Race and ethnicity,table,",",4,9
+Clay Arsenal,Hartford,1_neighborhood,White population,139,race,Race and ethnicity,table,",",4,9
+Downtown,Hartford,1_neighborhood,White population,1131,race,Race and ethnicity,table,",",4,9
+Frog Hollow,Hartford,1_neighborhood,White population,683,race,Race and ethnicity,table,",",4,9
+Northeast,Hartford,1_neighborhood,White population,281,race,Race and ethnicity,table,",",4,9
+Parkville,Hartford,1_neighborhood,White population,684,race,Race and ethnicity,table,",",4,9
+Sheldon Charter Oak,Hartford,1_neighborhood,White population,386,race,Race and ethnicity,table,",",4,9
+South End & South Meadows,Hartford,1_neighborhood,White population,3232,race,Race and ethnicity,table,",",4,9
+South Green,Hartford,1_neighborhood,White population,243,race,Race and ethnicity,table,",",4,9
+Southwest,Hartford,1_neighborhood,White population,1109,race,Race and ethnicity,table,",",4,9
+Upper Albany,Hartford,1_neighborhood,White population,92,race,Race and ethnicity,table,",",4,9
+West End,Hartford,1_neighborhood,White population,3974,race,Race and ethnicity,table,",",4,9
+Bishops Corner West,West Hartford,1_neighborhood,White population,6315,race,Race and ethnicity,table,",",4,9
+Buena Vista,West Hartford,1_neighborhood,White population,2089,race,Race and ethnicity,table,",",4,9
+Corbins Corner,West Hartford,1_neighborhood,White population,3033,race,Race and ethnicity,table,",",4,9
+Elizabeth Park,West Hartford,1_neighborhood,White population,4165,race,Race and ethnicity,table,",",4,9
+Farmington East,West Hartford,1_neighborhood,White population,7706,race,Race and ethnicity,table,",",4,9
+Golf Acres,West Hartford,1_neighborhood,White population,5764,race,Race and ethnicity,table,",",4,9
+Kennedy Park,West Hartford,1_neighborhood,White population,2032,race,Race and ethnicity,table,",",4,9
+Mountain West,West Hartford,1_neighborhood,White population,3817,race,Race and ethnicity,table,",",4,9
+New Park,West Hartford,1_neighborhood,White population,2467,race,Race and ethnicity,table,",",4,9
+Rockledge,West Hartford,1_neighborhood,White population,5344,race,Race and ethnicity,table,",",4,9
+West Hartford Center,West Hartford,1_neighborhood,White population,4246,race,Race and ethnicity,table,",",4,9
+Connecticut,,3_state,Percent white,0.687,race,Race and ethnicity,map,.0%,5,10
+Hartford,,2_city,Percent white,0.155,race,Race and ethnicity,map,.0%,5,10
+West Hartford,,2_city,Percent white,0.743,race,Race and ethnicity,map,.0%,5,10
+Asylum Hill,Hartford,1_neighborhood,Percent white,0.133,race,Race and ethnicity,map,.0%,5,10
+Barry Square,Hartford,1_neighborhood,Percent white,0.17,race,Race and ethnicity,map,.0%,5,10
+Behind the Rocks,Hartford,1_neighborhood,Percent white,0.101,race,Race and ethnicity,map,.0%,5,10
+Blue Hills,Hartford,1_neighborhood,Percent white,0.182,race,Race and ethnicity,map,.0%,5,10
+Clay Arsenal,Hartford,1_neighborhood,Percent white,0.019,race,Race and ethnicity,map,.0%,5,10
+Downtown,Hartford,1_neighborhood,Percent white,0.569,race,Race and ethnicity,map,.0%,5,10
+Frog Hollow,Hartford,1_neighborhood,Percent white,0.077,race,Race and ethnicity,map,.0%,5,10
+Northeast,Hartford,1_neighborhood,Percent white,0.025,race,Race and ethnicity,map,.0%,5,10
+Parkville,Hartford,1_neighborhood,Percent white,0.148,race,Race and ethnicity,map,.0%,5,10
+Sheldon Charter Oak,Hartford,1_neighborhood,Percent white,0.119,race,Race and ethnicity,map,.0%,5,10
+South End & South Meadows,Hartford,1_neighborhood,Percent white,0.224,race,Race and ethnicity,map,.0%,5,10
+South Green,Hartford,1_neighborhood,Percent white,0.109,race,Race and ethnicity,map,.0%,5,10
+Southwest,Hartford,1_neighborhood,Percent white,0.148,race,Race and ethnicity,map,.0%,5,10
+Upper Albany,Hartford,1_neighborhood,Percent white,0.013,race,Race and ethnicity,map,.0%,5,10
+West End,Hartford,1_neighborhood,Percent white,0.4,race,Race and ethnicity,map,.0%,5,10
+Bishops Corner West,West Hartford,1_neighborhood,Percent white,0.794,race,Race and ethnicity,map,.0%,5,10
+Buena Vista,West Hartford,1_neighborhood,Percent white,0.794,race,Race and ethnicity,map,.0%,5,10
+Corbins Corner,West Hartford,1_neighborhood,Percent white,0.695,race,Race and ethnicity,map,.0%,5,10
+Elizabeth Park,West Hartford,1_neighborhood,Percent white,0.933,race,Race and ethnicity,map,.0%,5,10
+Farmington East,West Hartford,1_neighborhood,Percent white,0.727,race,Race and ethnicity,map,.0%,5,10
+Golf Acres,West Hartford,1_neighborhood,Percent white,0.785,race,Race and ethnicity,map,.0%,5,10
+Kennedy Park,West Hartford,1_neighborhood,Percent white,0.512,race,Race and ethnicity,map,.0%,5,10
+Mountain West,West Hartford,1_neighborhood,Percent white,0.857,race,Race and ethnicity,map,.0%,5,10
+New Park,West Hartford,1_neighborhood,Percent white,0.406,race,Race and ethnicity,map,.0%,5,10
+Rockledge,West Hartford,1_neighborhood,Percent white,0.831,race,Race and ethnicity,map,.0%,5,10
+West Hartford Center,West Hartford,1_neighborhood,Percent white,0.867,race,Race and ethnicity,map,.0%,5,10
+Connecticut,,3_state,Black population,347674,race,Race and ethnicity,table,",",6,11
+Hartford,,2_city,Black population,43559,race,Race and ethnicity,table,",",6,11
+West Hartford,,2_city,Black population,3947,race,Race and ethnicity,table,",",6,11
+Asylum Hill,Hartford,1_neighborhood,Black population,4689,race,Race and ethnicity,table,",",6,11
+Barry Square,Hartford,1_neighborhood,Black population,2783,race,Race and ethnicity,table,",",6,11
+Behind the Rocks,Hartford,1_neighborhood,Black population,1431,race,Race and ethnicity,table,",",6,11
+Blue Hills,Hartford,1_neighborhood,Black population,8257,race,Race and ethnicity,table,",",6,11
+Clay Arsenal,Hartford,1_neighborhood,Black population,2618,race,Race and ethnicity,table,",",6,11
+Downtown,Hartford,1_neighborhood,Black population,275,race,Race and ethnicity,table,",",6,11
+Frog Hollow,Hartford,1_neighborhood,Black population,1620,race,Race and ethnicity,table,",",6,11
+Northeast,Hartford,1_neighborhood,Black population,7991,race,Race and ethnicity,table,",",6,11
+Parkville,Hartford,1_neighborhood,Black population,1008,race,Race and ethnicity,table,",",6,11
+Sheldon Charter Oak,Hartford,1_neighborhood,Black population,731,race,Race and ethnicity,table,",",6,11
+South End & South Meadows,Hartford,1_neighborhood,Black population,2077,race,Race and ethnicity,table,",",6,11
+South Green,Hartford,1_neighborhood,Black population,475,race,Race and ethnicity,table,",",6,11
+Southwest,Hartford,1_neighborhood,Black population,1086,race,Race and ethnicity,table,",",6,11
+Upper Albany,Hartford,1_neighborhood,Black population,5373,race,Race and ethnicity,table,",",6,11
+West End,Hartford,1_neighborhood,Black population,2809,race,Race and ethnicity,table,",",6,11
+Bishops Corner West,West Hartford,1_neighborhood,Black population,283,race,Race and ethnicity,table,",",6,11
+Buena Vista,West Hartford,1_neighborhood,Black population,125,race,Race and ethnicity,table,",",6,11
+Corbins Corner,West Hartford,1_neighborhood,Black population,57,race,Race and ethnicity,table,",",6,11
+Elizabeth Park,West Hartford,1_neighborhood,Black population,9,race,Race and ethnicity,table,",",6,11
+Farmington East,West Hartford,1_neighborhood,Black population,876,race,Race and ethnicity,table,",",6,11
+Golf Acres,West Hartford,1_neighborhood,Black population,462,race,Race and ethnicity,table,",",6,11
+Kennedy Park,West Hartford,1_neighborhood,Black population,679,race,Race and ethnicity,table,",",6,11
+Mountain West,West Hartford,1_neighborhood,Black population,199,race,Race and ethnicity,table,",",6,11
+New Park,West Hartford,1_neighborhood,Black population,1047,race,Race and ethnicity,table,",",6,11
+Rockledge,West Hartford,1_neighborhood,Black population,123,race,Race and ethnicity,table,",",6,11
+West Hartford Center,West Hartford,1_neighborhood,Black population,87,race,Race and ethnicity,table,",",6,11
+Connecticut,,3_state,Percent black,0.097,race,Race and ethnicity,map,.0%,7,12
+Hartford,,2_city,Percent black,0.35,race,Race and ethnicity,map,.0%,7,12
+West Hartford,,2_city,Percent black,0.062,race,Race and ethnicity,map,.0%,7,12
+Asylum Hill,Hartford,1_neighborhood,Percent black,0.488,race,Race and ethnicity,map,.0%,7,12
+Barry Square,Hartford,1_neighborhood,Percent black,0.177,race,Race and ethnicity,map,.0%,7,12
+Behind the Rocks,Hartford,1_neighborhood,Percent black,0.175,race,Race and ethnicity,map,.0%,7,12
+Blue Hills,Hartford,1_neighborhood,Percent black,0.709,race,Race and ethnicity,map,.0%,7,12
+Clay Arsenal,Hartford,1_neighborhood,Percent black,0.366,race,Race and ethnicity,map,.0%,7,12
+Downtown,Hartford,1_neighborhood,Percent black,0.138,race,Race and ethnicity,map,.0%,7,12
+Frog Hollow,Hartford,1_neighborhood,Percent black,0.183,race,Race and ethnicity,map,.0%,7,12
+Northeast,Hartford,1_neighborhood,Percent black,0.721,race,Race and ethnicity,map,.0%,7,12
+Parkville,Hartford,1_neighborhood,Percent black,0.219,race,Race and ethnicity,map,.0%,7,12
+Sheldon Charter Oak,Hartford,1_neighborhood,Percent black,0.225,race,Race and ethnicity,map,.0%,7,12
+South End & South Meadows,Hartford,1_neighborhood,Percent black,0.144,race,Race and ethnicity,map,.0%,7,12
+South Green,Hartford,1_neighborhood,Percent black,0.213,race,Race and ethnicity,map,.0%,7,12
+Southwest,Hartford,1_neighborhood,Percent black,0.145,race,Race and ethnicity,map,.0%,7,12
+Upper Albany,Hartford,1_neighborhood,Percent black,0.766,race,Race and ethnicity,map,.0%,7,12
+West End,Hartford,1_neighborhood,Percent black,0.283,race,Race and ethnicity,map,.0%,7,12
+Bishops Corner West,West Hartford,1_neighborhood,Percent black,0.036,race,Race and ethnicity,map,.0%,7,12
+Buena Vista,West Hartford,1_neighborhood,Percent black,0.048,race,Race and ethnicity,map,.0%,7,12
+Corbins Corner,West Hartford,1_neighborhood,Percent black,0.013,race,Race and ethnicity,map,.0%,7,12
+Elizabeth Park,West Hartford,1_neighborhood,Percent black,0.002,race,Race and ethnicity,map,.0%,7,12
+Farmington East,West Hartford,1_neighborhood,Percent black,0.083,race,Race and ethnicity,map,.0%,7,12
+Golf Acres,West Hartford,1_neighborhood,Percent black,0.063,race,Race and ethnicity,map,.0%,7,12
+Kennedy Park,West Hartford,1_neighborhood,Percent black,0.171,race,Race and ethnicity,map,.0%,7,12
+Mountain West,West Hartford,1_neighborhood,Percent black,0.045,race,Race and ethnicity,map,.0%,7,12
+New Park,West Hartford,1_neighborhood,Percent black,0.172,race,Race and ethnicity,map,.0%,7,12
+Rockledge,West Hartford,1_neighborhood,Percent black,0.019,race,Race and ethnicity,map,.0%,7,12
+West Hartford Center,West Hartford,1_neighborhood,Percent black,0.018,race,Race and ethnicity,map,.0%,7,12
+Connecticut,,3_state,Other race population,238718,race,Race and ethnicity,table,",",8,13
+Hartford,,2_city,Other race population,6825,race,Race and ethnicity,table,",",8,13
+West Hartford,,2_city,Other race population,6133,race,Race and ethnicity,table,",",8,13
+Asylum Hill,Hartford,1_neighborhood,Other race population,1171,race,Race and ethnicity,table,",",8,13
+Barry Square,Hartford,1_neighborhood,Other race population,935,race,Race and ethnicity,table,",",8,13
+Behind the Rocks,Hartford,1_neighborhood,Other race population,374,race,Race and ethnicity,table,",",8,13
+Blue Hills,Hartford,1_neighborhood,Other race population,434,race,Race and ethnicity,table,",",8,13
+Clay Arsenal,Hartford,1_neighborhood,Other race population,149,race,Race and ethnicity,table,",",8,13
+Downtown,Hartford,1_neighborhood,Other race population,328,race,Race and ethnicity,table,",",8,13
+Frog Hollow,Hartford,1_neighborhood,Other race population,264,race,Race and ethnicity,table,",",8,13
+Northeast,Hartford,1_neighborhood,Other race population,97,race,Race and ethnicity,table,",",8,13
+Parkville,Hartford,1_neighborhood,Other race population,216,race,Race and ethnicity,table,",",8,13
+Sheldon Charter Oak,Hartford,1_neighborhood,Other race population,545,race,Race and ethnicity,table,",",8,13
+South End & South Meadows,Hartford,1_neighborhood,Other race population,832,race,Race and ethnicity,table,",",8,13
+South Green,Hartford,1_neighborhood,Other race population,45,race,Race and ethnicity,table,",",8,13
+Southwest,Hartford,1_neighborhood,Other race population,487,race,Race and ethnicity,table,",",8,13
+Upper Albany,Hartford,1_neighborhood,Other race population,259,race,Race and ethnicity,table,",",8,13
+West End,Hartford,1_neighborhood,Other race population,661,race,Race and ethnicity,table,",",8,13
+Bishops Corner West,West Hartford,1_neighborhood,Other race population,749,race,Race and ethnicity,table,",",8,13
+Buena Vista,West Hartford,1_neighborhood,Other race population,387,race,Race and ethnicity,table,",",8,13
+Corbins Corner,West Hartford,1_neighborhood,Other race population,701,race,Race and ethnicity,table,",",8,13
+Elizabeth Park,West Hartford,1_neighborhood,Other race population,175,race,Race and ethnicity,table,",",8,13
+Farmington East,West Hartford,1_neighborhood,Other race population,873,race,Race and ethnicity,table,",",8,13
+Golf Acres,West Hartford,1_neighborhood,Other race population,579,race,Race and ethnicity,table,",",8,13
+Kennedy Park,West Hartford,1_neighborhood,Other race population,513,race,Race and ethnicity,table,",",8,13
+Mountain West,West Hartford,1_neighborhood,Other race population,358,race,Race and ethnicity,table,",",8,13
+New Park,West Hartford,1_neighborhood,Other race population,1019,race,Race and ethnicity,table,",",8,13
+Rockledge,West Hartford,1_neighborhood,Other race population,447,race,Race and ethnicity,table,",",8,13
+West Hartford Center,West Hartford,1_neighborhood,Other race population,332,race,Race and ethnicity,table,",",8,13
+Connecticut,,3_state,Percent other race,0.067,race,Race and ethnicity,map,.0%,9,14
+Hartford,,2_city,Percent other race,0.055,race,Race and ethnicity,map,.0%,9,14
+West Hartford,,2_city,Percent other race,0.097,race,Race and ethnicity,map,.0%,9,14
+Asylum Hill,Hartford,1_neighborhood,Percent other race,0.122,race,Race and ethnicity,map,.0%,9,14
+Barry Square,Hartford,1_neighborhood,Percent other race,0.059,race,Race and ethnicity,map,.0%,9,14
+Behind the Rocks,Hartford,1_neighborhood,Percent other race,0.046,race,Race and ethnicity,map,.0%,9,14
+Blue Hills,Hartford,1_neighborhood,Percent other race,0.037,race,Race and ethnicity,map,.0%,9,14
+Clay Arsenal,Hartford,1_neighborhood,Percent other race,0.021,race,Race and ethnicity,map,.0%,9,14
+Downtown,Hartford,1_neighborhood,Percent other race,0.165,race,Race and ethnicity,map,.0%,9,14
+Frog Hollow,Hartford,1_neighborhood,Percent other race,0.03,race,Race and ethnicity,map,.0%,9,14
+Northeast,Hartford,1_neighborhood,Percent other race,0.009,race,Race and ethnicity,map,.0%,9,14
+Parkville,Hartford,1_neighborhood,Percent other race,0.047,race,Race and ethnicity,map,.0%,9,14
+Sheldon Charter Oak,Hartford,1_neighborhood,Percent other race,0.168,race,Race and ethnicity,map,.0%,9,14
+South End & South Meadows,Hartford,1_neighborhood,Percent other race,0.058,race,Race and ethnicity,map,.0%,9,14
+South Green,Hartford,1_neighborhood,Percent other race,0.02,race,Race and ethnicity,map,.0%,9,14
+Southwest,Hartford,1_neighborhood,Percent other race,0.065,race,Race and ethnicity,map,.0%,9,14
+Upper Albany,Hartford,1_neighborhood,Percent other race,0.037,race,Race and ethnicity,map,.0%,9,14
+West End,Hartford,1_neighborhood,Percent other race,0.067,race,Race and ethnicity,map,.0%,9,14
+Bishops Corner West,West Hartford,1_neighborhood,Percent other race,0.094,race,Race and ethnicity,map,.0%,9,14
+Buena Vista,West Hartford,1_neighborhood,Percent other race,0.147,race,Race and ethnicity,map,.0%,9,14
+Corbins Corner,West Hartford,1_neighborhood,Percent other race,0.161,race,Race and ethnicity,map,.0%,9,14
+Elizabeth Park,West Hartford,1_neighborhood,Percent other race,0.039,race,Race and ethnicity,map,.0%,9,14
+Farmington East,West Hartford,1_neighborhood,Percent other race,0.082,race,Race and ethnicity,map,.0%,9,14
+Golf Acres,West Hartford,1_neighborhood,Percent other race,0.079,race,Race and ethnicity,map,.0%,9,14
+Kennedy Park,West Hartford,1_neighborhood,Percent other race,0.129,race,Race and ethnicity,map,.0%,9,14
+Mountain West,West Hartford,1_neighborhood,Percent other race,0.08,race,Race and ethnicity,map,.0%,9,14
+New Park,West Hartford,1_neighborhood,Percent other race,0.168,race,Race and ethnicity,map,.0%,9,14
+Rockledge,West Hartford,1_neighborhood,Percent other race,0.069,race,Race and ethnicity,map,.0%,9,14
+West Hartford Center,West Hartford,1_neighborhood,Percent other race,0.068,race,Race and ethnicity,map,.0%,9,14
+Connecticut,,3_state,Total households,1354713,households,Households,table,",",1,15
+Hartford,,2_city,Total households,45845,households,Households,table,",",1,15
+West Hartford,,2_city,Total households,24640,households,Households,table,",",1,15
+Asylum Hill,Hartford,1_neighborhood,Total households,5153,households,Households,table,",",1,15
+Barry Square,Hartford,1_neighborhood,Total households,4832,households,Households,table,",",1,15
+Behind the Rocks,Hartford,1_neighborhood,Total households,2802,households,Households,table,",",1,15
+Blue Hills,Hartford,1_neighborhood,Total households,3081,households,Households,table,",",1,15
+Clay Arsenal,Hartford,1_neighborhood,Total households,2360,households,Households,table,",",1,15
+Downtown,Hartford,1_neighborhood,Total households,1429,households,Households,table,",",1,15
+Frog Hollow,Hartford,1_neighborhood,Total households,3327,households,Households,table,",",1,15
+Northeast,Hartford,1_neighborhood,Total households,3905,households,Households,table,",",1,15
+Parkville,Hartford,1_neighborhood,Total households,1652,households,Households,table,",",1,15
+Sheldon Charter Oak,Hartford,1_neighborhood,Total households,1422,households,Households,table,",",1,15
+South End & South Meadows,Hartford,1_neighborhood,Total households,4850,households,Households,table,",",1,15
+South Green,Hartford,1_neighborhood,Total households,980,households,Households,table,",",1,15
+Southwest,Hartford,1_neighborhood,Total households,2704,households,Households,table,",",1,15
+Upper Albany,Hartford,1_neighborhood,Total households,2487,households,Households,table,",",1,15
+West End,Hartford,1_neighborhood,Total households,4846,households,Households,table,",",1,15
+Bishops Corner West,West Hartford,1_neighborhood,Total households,3024,households,Households,table,",",1,15
+Buena Vista,West Hartford,1_neighborhood,Total households,1132,households,Households,table,",",1,15
+Corbins Corner,West Hartford,1_neighborhood,Total households,1712,households,Households,table,",",1,15
+Elizabeth Park,West Hartford,1_neighborhood,Total households,1542,households,Households,table,",",1,15
+Farmington East,West Hartford,1_neighborhood,Total households,4712,households,Households,table,",",1,15
+Golf Acres,West Hartford,1_neighborhood,Total households,2345,households,Households,table,",",1,15
+Kennedy Park,West Hartford,1_neighborhood,Total households,1596,households,Households,table,",",1,15
+Mountain West,West Hartford,1_neighborhood,Total households,1580,households,Households,table,",",1,15
+New Park,West Hartford,1_neighborhood,Total households,2439,households,Households,table,",",1,15
+Rockledge,West Hartford,1_neighborhood,Total households,2540,households,Households,table,",",1,15
+West Hartford Center,West Hartford,1_neighborhood,Total households,2018,households,Households,table,",",1,15
+Connecticut,,3_state,Owner-occupied households,900223,households,Households,table,",",2,16
+Hartford,,2_city,Owner-occupied households,10877,households,Households,table,",",2,16
+West Hartford,,2_city,Owner-occupied households,17578,households,Households,table,",",2,16
+Asylum Hill,Hartford,1_neighborhood,Owner-occupied households,631,households,Households,table,",",2,16
+Barry Square,Hartford,1_neighborhood,Owner-occupied households,995,households,Households,table,",",2,16
+Behind the Rocks,Hartford,1_neighborhood,Owner-occupied households,915,households,Households,table,",",2,16
+Blue Hills,Hartford,1_neighborhood,Owner-occupied households,1731,households,Households,table,",",2,16
+Clay Arsenal,Hartford,1_neighborhood,Owner-occupied households,251,households,Households,table,",",2,16
+Downtown,Hartford,1_neighborhood,Owner-occupied households,203,households,Households,table,",",2,16
+Frog Hollow,Hartford,1_neighborhood,Owner-occupied households,252,households,Households,table,",",2,16
+Northeast,Hartford,1_neighborhood,Owner-occupied households,925,households,Households,table,",",2,16
+Parkville,Hartford,1_neighborhood,Owner-occupied households,250,households,Households,table,",",2,16
+Sheldon Charter Oak,Hartford,1_neighborhood,Owner-occupied households,65,households,Households,table,",",2,16
+South End & South Meadows,Hartford,1_neighborhood,Owner-occupied households,1594,households,Households,table,",",2,16
+South Green,Hartford,1_neighborhood,Owner-occupied households,64,households,Households,table,",",2,16
+Southwest,Hartford,1_neighborhood,Owner-occupied households,1734,households,Households,table,",",2,16
+Upper Albany,Hartford,1_neighborhood,Owner-occupied households,393,households,Households,table,",",2,16
+West End,Hartford,1_neighborhood,Owner-occupied households,874,households,Households,table,",",2,16
+Bishops Corner West,West Hartford,1_neighborhood,Owner-occupied households,2419,households,Households,table,",",2,16
+Buena Vista,West Hartford,1_neighborhood,Owner-occupied households,1058,households,Households,table,",",2,16
+Corbins Corner,West Hartford,1_neighborhood,Owner-occupied households,1435,households,Households,table,",",2,16
+Elizabeth Park,West Hartford,1_neighborhood,Owner-occupied households,1488,households,Households,table,",",2,16
+Farmington East,West Hartford,1_neighborhood,Owner-occupied households,1986,households,Households,table,",",2,16
+Golf Acres,West Hartford,1_neighborhood,Owner-occupied households,1930,households,Households,table,",",2,16
+Kennedy Park,West Hartford,1_neighborhood,Owner-occupied households,772,households,Households,table,",",2,16
+Mountain West,West Hartford,1_neighborhood,Owner-occupied households,1354,households,Households,table,",",2,16
+New Park,West Hartford,1_neighborhood,Owner-occupied households,1304,households,Households,table,",",2,16
+Rockledge,West Hartford,1_neighborhood,Owner-occupied households,2252,households,Households,table,",",2,16
+West Hartford Center,West Hartford,1_neighborhood,Owner-occupied households,1580,households,Households,table,",",2,16
+Connecticut,,3_state,Homeownership rate,0.665,households,Households,map,.0%,3,17
+Hartford,,2_city,Homeownership rate,0.237,households,Households,map,.0%,3,17
+West Hartford,,2_city,Homeownership rate,0.713,households,Households,map,.0%,3,17
+Asylum Hill,Hartford,1_neighborhood,Homeownership rate,0.122,households,Households,map,.0%,3,17
+Barry Square,Hartford,1_neighborhood,Homeownership rate,0.206,households,Households,map,.0%,3,17
+Behind the Rocks,Hartford,1_neighborhood,Homeownership rate,0.327,households,Households,map,.0%,3,17
+Blue Hills,Hartford,1_neighborhood,Homeownership rate,0.562,households,Households,map,.0%,3,17
+Clay Arsenal,Hartford,1_neighborhood,Homeownership rate,0.106,households,Households,map,.0%,3,17
+Downtown,Hartford,1_neighborhood,Homeownership rate,0.142,households,Households,map,.0%,3,17
+Frog Hollow,Hartford,1_neighborhood,Homeownership rate,0.076,households,Households,map,.0%,3,17
+Northeast,Hartford,1_neighborhood,Homeownership rate,0.237,households,Households,map,.0%,3,17
+Parkville,Hartford,1_neighborhood,Homeownership rate,0.151,households,Households,map,.0%,3,17
+Sheldon Charter Oak,Hartford,1_neighborhood,Homeownership rate,0.046,households,Households,map,.0%,3,17
+South End & South Meadows,Hartford,1_neighborhood,Homeownership rate,0.329,households,Households,map,.0%,3,17
+South Green,Hartford,1_neighborhood,Homeownership rate,0.065,households,Households,map,.0%,3,17
+Southwest,Hartford,1_neighborhood,Homeownership rate,0.641,households,Households,map,.0%,3,17
+Upper Albany,Hartford,1_neighborhood,Homeownership rate,0.158,households,Households,map,.0%,3,17
+West End,Hartford,1_neighborhood,Homeownership rate,0.18,households,Households,map,.0%,3,17
+Bishops Corner West,West Hartford,1_neighborhood,Homeownership rate,0.8,households,Households,map,.0%,3,17
+Buena Vista,West Hartford,1_neighborhood,Homeownership rate,0.935,households,Households,map,.0%,3,17
+Corbins Corner,West Hartford,1_neighborhood,Homeownership rate,0.838,households,Households,map,.0%,3,17
+Elizabeth Park,West Hartford,1_neighborhood,Homeownership rate,0.965,households,Households,map,.0%,3,17
+Farmington East,West Hartford,1_neighborhood,Homeownership rate,0.421,households,Households,map,.0%,3,17
+Golf Acres,West Hartford,1_neighborhood,Homeownership rate,0.823,households,Households,map,.0%,3,17
+Kennedy Park,West Hartford,1_neighborhood,Homeownership rate,0.484,households,Households,map,.0%,3,17
+Mountain West,West Hartford,1_neighborhood,Homeownership rate,0.857,households,Households,map,.0%,3,17
+New Park,West Hartford,1_neighborhood,Homeownership rate,0.535,households,Households,map,.0%,3,17
+Rockledge,West Hartford,1_neighborhood,Homeownership rate,0.887,households,Households,map,.0%,3,17
+West Hartford Center,West Hartford,1_neighborhood,Homeownership rate,0.783,households,Households,map,.0%,3,17
+Connecticut,,3_state,Poverty status known,3479672,income,Income,table,",",1,18
+Hartford,,2_city,Poverty status known,117233,income,Income,table,",",1,18
+West Hartford,,2_city,Poverty status known,61418,income,Income,table,",",1,18
+Asylum Hill,Hartford,1_neighborhood,Poverty status known,9484,income,Income,table,",",1,18
+Barry Square,Hartford,1_neighborhood,Poverty status known,13628,income,Income,table,",",1,18
+Behind the Rocks,Hartford,1_neighborhood,Poverty status known,8028,income,Income,table,",",1,18
+Blue Hills,Hartford,1_neighborhood,Poverty status known,8818,income,Income,table,",",1,18
+Clay Arsenal,Hartford,1_neighborhood,Poverty status known,7135,income,Income,table,",",1,18
+Downtown,Hartford,1_neighborhood,Poverty status known,1976,income,Income,table,",",1,18
+Frog Hollow,Hartford,1_neighborhood,Poverty status known,8779,income,Income,table,",",1,18
+Northeast,Hartford,1_neighborhood,Poverty status known,11076,income,Income,table,",",1,18
+Parkville,Hartford,1_neighborhood,Poverty status known,4545,income,Income,table,",",1,18
+Sheldon Charter Oak,Hartford,1_neighborhood,Poverty status known,3208,income,Income,table,",",1,18
+South End & South Meadows,Hartford,1_neighborhood,Poverty status known,14324,income,Income,table,",",1,18
+South Green,Hartford,1_neighborhood,Poverty status known,2145,income,Income,table,",",1,18
+Southwest,Hartford,1_neighborhood,Poverty status known,7356,income,Income,table,",",1,18
+Upper Albany,Hartford,1_neighborhood,Poverty status known,6998,income,Income,table,",",1,18
+West End,Hartford,1_neighborhood,Poverty status known,9685,income,Income,table,",",1,18
+Bishops Corner West,West Hartford,1_neighborhood,Poverty status known,7876,income,Income,table,",",1,18
+Buena Vista,West Hartford,1_neighborhood,Poverty status known,2630,income,Income,table,",",1,18
+Corbins Corner,West Hartford,1_neighborhood,Poverty status known,4313,income,Income,table,",",1,18
+Elizabeth Park,West Hartford,1_neighborhood,Poverty status known,4462,income,Income,table,",",1,18
+Farmington East,West Hartford,1_neighborhood,Poverty status known,10279,income,Income,table,",",1,18
+Golf Acres,West Hartford,1_neighborhood,Poverty status known,6080,income,Income,table,",",1,18
+Kennedy Park,West Hartford,1_neighborhood,Poverty status known,3960,income,Income,table,",",1,18
+Mountain West,West Hartford,1_neighborhood,Poverty status known,4453,income,Income,table,",",1,18
+New Park,West Hartford,1_neighborhood,Poverty status known,6053,income,Income,table,",",1,18
+Rockledge,West Hartford,1_neighborhood,Poverty status known,6431,income,Income,table,",",1,18
+West Hartford Center,West Hartford,1_neighborhood,Poverty status known,4881,income,Income,table,",",1,18
+Connecticut,,3_state,Population in poverty,360464,income,Income,table,",",2,19
+Hartford,,2_city,Population in poverty,37435,income,Income,table,",",2,19
+West Hartford,,2_city,Population in poverty,4725,income,Income,table,",",2,19
+Asylum Hill,Hartford,1_neighborhood,Population in poverty,2447,income,Income,table,",",2,19
+Barry Square,Hartford,1_neighborhood,Population in poverty,5403,income,Income,table,",",2,19
+Behind the Rocks,Hartford,1_neighborhood,Population in poverty,2827,income,Income,table,",",2,19
+Blue Hills,Hartford,1_neighborhood,Population in poverty,1395,income,Income,table,",",2,19
+Clay Arsenal,Hartford,1_neighborhood,Population in poverty,3114,income,Income,table,",",2,19
+Downtown,Hartford,1_neighborhood,Population in poverty,274,income,Income,table,",",2,19
+Frog Hollow,Hartford,1_neighborhood,Population in poverty,4065,income,Income,table,",",2,19
+Northeast,Hartford,1_neighborhood,Population in poverty,3937,income,Income,table,",",2,19
+Parkville,Hartford,1_neighborhood,Population in poverty,1956,income,Income,table,",",2,19
+Sheldon Charter Oak,Hartford,1_neighborhood,Population in poverty,1165,income,Income,table,",",2,19
+South End & South Meadows,Hartford,1_neighborhood,Population in poverty,3405,income,Income,table,",",2,19
+South Green,Hartford,1_neighborhood,Population in poverty,930,income,Income,table,",",2,19
+Southwest,Hartford,1_neighborhood,Population in poverty,1110,income,Income,table,",",2,19
+Upper Albany,Hartford,1_neighborhood,Population in poverty,2557,income,Income,table,",",2,19
+West End,Hartford,1_neighborhood,Population in poverty,2850,income,Income,table,",",2,19
+Bishops Corner West,West Hartford,1_neighborhood,Population in poverty,758,income,Income,table,",",2,19
+Buena Vista,West Hartford,1_neighborhood,Population in poverty,102,income,Income,table,",",2,19
+Corbins Corner,West Hartford,1_neighborhood,Population in poverty,111,income,Income,table,",",2,19
+Elizabeth Park,West Hartford,1_neighborhood,Population in poverty,114,income,Income,table,",",2,19
+Farmington East,West Hartford,1_neighborhood,Population in poverty,1449,income,Income,table,",",2,19
+Golf Acres,West Hartford,1_neighborhood,Population in poverty,206,income,Income,table,",",2,19
+Kennedy Park,West Hartford,1_neighborhood,Population in poverty,210,income,Income,table,",",2,19
+Mountain West,West Hartford,1_neighborhood,Population in poverty,159,income,Income,table,",",2,19
+New Park,West Hartford,1_neighborhood,Population in poverty,1151,income,Income,table,",",2,19
+Rockledge,West Hartford,1_neighborhood,Population in poverty,274,income,Income,table,",",2,19
+West Hartford Center,West Hartford,1_neighborhood,Population in poverty,191,income,Income,table,",",2,19
+Connecticut,,3_state,Poverty rate,0.104,income,Income,map,.0%,3,20
+Hartford,,2_city,Poverty rate,0.319,income,Income,map,.0%,3,20
+West Hartford,,2_city,Poverty rate,0.077,income,Income,map,.0%,3,20
+Asylum Hill,Hartford,1_neighborhood,Poverty rate,0.258,income,Income,map,.0%,3,20
+Barry Square,Hartford,1_neighborhood,Poverty rate,0.396,income,Income,map,.0%,3,20
+Behind the Rocks,Hartford,1_neighborhood,Poverty rate,0.352,income,Income,map,.0%,3,20
+Blue Hills,Hartford,1_neighborhood,Poverty rate,0.158,income,Income,map,.0%,3,20
+Clay Arsenal,Hartford,1_neighborhood,Poverty rate,0.436,income,Income,map,.0%,3,20
+Downtown,Hartford,1_neighborhood,Poverty rate,0.139,income,Income,map,.0%,3,20
+Frog Hollow,Hartford,1_neighborhood,Poverty rate,0.463,income,Income,map,.0%,3,20
+Northeast,Hartford,1_neighborhood,Poverty rate,0.355,income,Income,map,.0%,3,20
+Parkville,Hartford,1_neighborhood,Poverty rate,0.43,income,Income,map,.0%,3,20
+Sheldon Charter Oak,Hartford,1_neighborhood,Poverty rate,0.363,income,Income,map,.0%,3,20
+South End & South Meadows,Hartford,1_neighborhood,Poverty rate,0.238,income,Income,map,.0%,3,20
+South Green,Hartford,1_neighborhood,Poverty rate,0.434,income,Income,map,.0%,3,20
+Southwest,Hartford,1_neighborhood,Poverty rate,0.151,income,Income,map,.0%,3,20
+Upper Albany,Hartford,1_neighborhood,Poverty rate,0.365,income,Income,map,.0%,3,20
+West End,Hartford,1_neighborhood,Poverty rate,0.294,income,Income,map,.0%,3,20
+Bishops Corner West,West Hartford,1_neighborhood,Poverty rate,0.096,income,Income,map,.0%,3,20
+Buena Vista,West Hartford,1_neighborhood,Poverty rate,0.039,income,Income,map,.0%,3,20
+Corbins Corner,West Hartford,1_neighborhood,Poverty rate,0.026,income,Income,map,.0%,3,20
+Elizabeth Park,West Hartford,1_neighborhood,Poverty rate,0.026,income,Income,map,.0%,3,20
+Farmington East,West Hartford,1_neighborhood,Poverty rate,0.141,income,Income,map,.0%,3,20
+Golf Acres,West Hartford,1_neighborhood,Poverty rate,0.034,income,Income,map,.0%,3,20
+Kennedy Park,West Hartford,1_neighborhood,Poverty rate,0.053,income,Income,map,.0%,3,20
+Mountain West,West Hartford,1_neighborhood,Poverty rate,0.036,income,Income,map,.0%,3,20
+New Park,West Hartford,1_neighborhood,Poverty rate,0.19,income,Income,map,.0%,3,20
+Rockledge,West Hartford,1_neighborhood,Poverty rate,0.043,income,Income,map,.0%,3,20
+West Hartford Center,West Hartford,1_neighborhood,Poverty rate,0.039,income,Income,map,.0%,3,20
+Connecticut,,3_state,Low-income population,812120,income,Income,table,",",4,21
+Hartford,,2_city,Low-income population,67353,income,Income,table,",",4,21
+West Hartford,,2_city,Low-income population,10453,income,Income,table,",",4,21
+Asylum Hill,Hartford,1_neighborhood,Low-income population,4801,income,Income,table,",",4,21
+Barry Square,Hartford,1_neighborhood,Low-income population,9414,income,Income,table,",",4,21
+Behind the Rocks,Hartford,1_neighborhood,Low-income population,4769,income,Income,table,",",4,21
+Blue Hills,Hartford,1_neighborhood,Low-income population,3366,income,Income,table,",",4,21
+Clay Arsenal,Hartford,1_neighborhood,Low-income population,5516,income,Income,table,",",4,21
+Downtown,Hartford,1_neighborhood,Low-income population,361,income,Income,table,",",4,21
+Frog Hollow,Hartford,1_neighborhood,Low-income population,5994,income,Income,table,",",4,21
+Northeast,Hartford,1_neighborhood,Low-income population,6970,income,Income,table,",",4,21
+Parkville,Hartford,1_neighborhood,Low-income population,3551,income,Income,table,",",4,21
+Sheldon Charter Oak,Hartford,1_neighborhood,Low-income population,2046,income,Income,table,",",4,21
+South End & South Meadows,Hartford,1_neighborhood,Low-income population,7178,income,Income,table,",",4,21
+South Green,Hartford,1_neighborhood,Low-income population,1548,income,Income,table,",",4,21
+Southwest,Hartford,1_neighborhood,Low-income population,2749,income,Income,table,",",4,21
+Upper Albany,Hartford,1_neighborhood,Low-income population,4500,income,Income,table,",",4,21
+West End,Hartford,1_neighborhood,Low-income population,4590,income,Income,table,",",4,21
+Bishops Corner West,West Hartford,1_neighborhood,Low-income population,1284,income,Income,table,",",4,21
+Buena Vista,West Hartford,1_neighborhood,Low-income population,329,income,Income,table,",",4,21
+Corbins Corner,West Hartford,1_neighborhood,Low-income population,546,income,Income,table,",",4,21
+Elizabeth Park,West Hartford,1_neighborhood,Low-income population,298,income,Income,table,",",4,21
+Farmington East,West Hartford,1_neighborhood,Low-income population,2360,income,Income,table,",",4,21
+Golf Acres,West Hartford,1_neighborhood,Low-income population,577,income,Income,table,",",4,21
+Kennedy Park,West Hartford,1_neighborhood,Low-income population,1418,income,Income,table,",",4,21
+Mountain West,West Hartford,1_neighborhood,Low-income population,296,income,Income,table,",",4,21
+New Park,West Hartford,1_neighborhood,Low-income population,2238,income,Income,table,",",4,21
+Rockledge,West Hartford,1_neighborhood,Low-income population,694,income,Income,table,",",4,21
+West Hartford Center,West Hartford,1_neighborhood,Low-income population,413,income,Income,table,",",4,21
+Connecticut,,3_state,Low-income rate,0.233,income,Income,map,.0%,5,22
+Hartford,,2_city,Low-income rate,0.575,income,Income,map,.0%,5,22
+West Hartford,,2_city,Low-income rate,0.17,income,Income,map,.0%,5,22
+Asylum Hill,Hartford,1_neighborhood,Low-income rate,0.506,income,Income,map,.0%,5,22
+Barry Square,Hartford,1_neighborhood,Low-income rate,0.691,income,Income,map,.0%,5,22
+Behind the Rocks,Hartford,1_neighborhood,Low-income rate,0.594,income,Income,map,.0%,5,22
+Blue Hills,Hartford,1_neighborhood,Low-income rate,0.382,income,Income,map,.0%,5,22
+Clay Arsenal,Hartford,1_neighborhood,Low-income rate,0.773,income,Income,map,.0%,5,22
+Downtown,Hartford,1_neighborhood,Low-income rate,0.183,income,Income,map,.0%,5,22
+Frog Hollow,Hartford,1_neighborhood,Low-income rate,0.683,income,Income,map,.0%,5,22
+Northeast,Hartford,1_neighborhood,Low-income rate,0.629,income,Income,map,.0%,5,22
+Parkville,Hartford,1_neighborhood,Low-income rate,0.781,income,Income,map,.0%,5,22
+Sheldon Charter Oak,Hartford,1_neighborhood,Low-income rate,0.638,income,Income,map,.0%,5,22
+South End & South Meadows,Hartford,1_neighborhood,Low-income rate,0.501,income,Income,map,.0%,5,22
+South Green,Hartford,1_neighborhood,Low-income rate,0.722,income,Income,map,.0%,5,22
+Southwest,Hartford,1_neighborhood,Low-income rate,0.374,income,Income,map,.0%,5,22
+Upper Albany,Hartford,1_neighborhood,Low-income rate,0.643,income,Income,map,.0%,5,22
+West End,Hartford,1_neighborhood,Low-income rate,0.474,income,Income,map,.0%,5,22
+Bishops Corner West,West Hartford,1_neighborhood,Low-income rate,0.163,income,Income,map,.0%,5,22
+Buena Vista,West Hartford,1_neighborhood,Low-income rate,0.125,income,Income,map,.0%,5,22
+Corbins Corner,West Hartford,1_neighborhood,Low-income rate,0.127,income,Income,map,.0%,5,22
+Elizabeth Park,West Hartford,1_neighborhood,Low-income rate,0.067,income,Income,map,.0%,5,22
+Farmington East,West Hartford,1_neighborhood,Low-income rate,0.23,income,Income,map,.0%,5,22
+Golf Acres,West Hartford,1_neighborhood,Low-income rate,0.095,income,Income,map,.0%,5,22
+Kennedy Park,West Hartford,1_neighborhood,Low-income rate,0.358,income,Income,map,.0%,5,22
+Mountain West,West Hartford,1_neighborhood,Low-income rate,0.066,income,Income,map,.0%,5,22
+New Park,West Hartford,1_neighborhood,Low-income rate,0.37,income,Income,map,.0%,5,22
+Rockledge,West Hartford,1_neighborhood,Low-income rate,0.108,income,Income,map,.0%,5,22
+West Hartford Center,West Hartford,1_neighborhood,Low-income rate,0.085,income,Income,map,.0%,5,22
+Connecticut,,3_state,High-income population,1394099,income,Income,table,",",6,23
+Hartford,,2_city,High-income population,11839,income,Income,table,",",6,23
+West Hartford,,2_city,High-income population,32752,income,Income,table,",",6,23
+Asylum Hill,Hartford,1_neighborhood,High-income population,1202,income,Income,table,",",6,23
+Barry Square,Hartford,1_neighborhood,High-income population,559,income,Income,table,",",6,23
+Behind the Rocks,Hartford,1_neighborhood,High-income population,759,income,Income,table,",",6,23
+Blue Hills,Hartford,1_neighborhood,High-income population,1620,income,Income,table,",",6,23
+Clay Arsenal,Hartford,1_neighborhood,High-income population,190,income,Income,table,",",6,23
+Downtown,Hartford,1_neighborhood,High-income population,1188,income,Income,table,",",6,23
+Frog Hollow,Hartford,1_neighborhood,High-income population,410,income,Income,table,",",6,23
+Northeast,Hartford,1_neighborhood,High-income population,587,income,Income,table,",",6,23
+Parkville,Hartford,1_neighborhood,High-income population,205,income,Income,table,",",6,23
+Sheldon Charter Oak,Hartford,1_neighborhood,High-income population,282,income,Income,table,",",6,23
+South End & South Meadows,Hartford,1_neighborhood,High-income population,1438,income,Income,table,",",6,23
+South Green,Hartford,1_neighborhood,High-income population,71,income,Income,table,",",6,23
+Southwest,Hartford,1_neighborhood,High-income population,1075,income,Income,table,",",6,23
+Upper Albany,Hartford,1_neighborhood,High-income population,617,income,Income,table,",",6,23
+West End,Hartford,1_neighborhood,High-income population,1636,income,Income,table,",",6,23
+Bishops Corner West,West Hartford,1_neighborhood,High-income population,4794,income,Income,table,",",6,23
+Buena Vista,West Hartford,1_neighborhood,High-income population,1757,income,Income,table,",",6,23
+Corbins Corner,West Hartford,1_neighborhood,High-income population,1704,income,Income,table,",",6,23
+Elizabeth Park,West Hartford,1_neighborhood,High-income population,3238,income,Income,table,",",6,23
+Farmington East,West Hartford,1_neighborhood,High-income population,4422,income,Income,table,",",6,23
+Golf Acres,West Hartford,1_neighborhood,High-income population,3925,income,Income,table,",",6,23
+Kennedy Park,West Hartford,1_neighborhood,High-income population,962,income,Income,table,",",6,23
+Mountain West,West Hartford,1_neighborhood,High-income population,3444,income,Income,table,",",6,23
+New Park,West Hartford,1_neighborhood,High-income population,1660,income,Income,table,",",6,23
+Rockledge,West Hartford,1_neighborhood,High-income population,3533,income,Income,table,",",6,23
+West Hartford Center,West Hartford,1_neighborhood,High-income population,3313,income,Income,table,",",6,23
+Connecticut,,3_state,High-income rate,0.401,income,Income,map,.0%,7,24
+Hartford,,2_city,High-income rate,0.101,income,Income,map,.0%,7,24
+West Hartford,,2_city,High-income rate,0.533,income,Income,map,.0%,7,24
+Asylum Hill,Hartford,1_neighborhood,High-income rate,0.127,income,Income,map,.0%,7,24
+Barry Square,Hartford,1_neighborhood,High-income rate,0.041,income,Income,map,.0%,7,24
+Behind the Rocks,Hartford,1_neighborhood,High-income rate,0.095,income,Income,map,.0%,7,24
+Blue Hills,Hartford,1_neighborhood,High-income rate,0.184,income,Income,map,.0%,7,24
+Clay Arsenal,Hartford,1_neighborhood,High-income rate,0.027,income,Income,map,.0%,7,24
+Downtown,Hartford,1_neighborhood,High-income rate,0.601,income,Income,map,.0%,7,24
+Frog Hollow,Hartford,1_neighborhood,High-income rate,0.047,income,Income,map,.0%,7,24
+Northeast,Hartford,1_neighborhood,High-income rate,0.053,income,Income,map,.0%,7,24
+Parkville,Hartford,1_neighborhood,High-income rate,0.045,income,Income,map,.0%,7,24
+Sheldon Charter Oak,Hartford,1_neighborhood,High-income rate,0.088,income,Income,map,.0%,7,24
+South End & South Meadows,Hartford,1_neighborhood,High-income rate,0.1,income,Income,map,.0%,7,24
+South Green,Hartford,1_neighborhood,High-income rate,0.033,income,Income,map,.0%,7,24
+Southwest,Hartford,1_neighborhood,High-income rate,0.146,income,Income,map,.0%,7,24
+Upper Albany,Hartford,1_neighborhood,High-income rate,0.088,income,Income,map,.0%,7,24
+West End,Hartford,1_neighborhood,High-income rate,0.169,income,Income,map,.0%,7,24
+Bishops Corner West,West Hartford,1_neighborhood,High-income rate,0.609,income,Income,map,.0%,7,24
+Buena Vista,West Hartford,1_neighborhood,High-income rate,0.668,income,Income,map,.0%,7,24
+Corbins Corner,West Hartford,1_neighborhood,High-income rate,0.395,income,Income,map,.0%,7,24
+Elizabeth Park,West Hartford,1_neighborhood,High-income rate,0.726,income,Income,map,.0%,7,24
+Farmington East,West Hartford,1_neighborhood,High-income rate,0.43,income,Income,map,.0%,7,24
+Golf Acres,West Hartford,1_neighborhood,High-income rate,0.646,income,Income,map,.0%,7,24
+Kennedy Park,West Hartford,1_neighborhood,High-income rate,0.243,income,Income,map,.0%,7,24
+Mountain West,West Hartford,1_neighborhood,High-income rate,0.773,income,Income,map,.0%,7,24
+New Park,West Hartford,1_neighborhood,High-income rate,0.274,income,Income,map,.0%,7,24
+Rockledge,West Hartford,1_neighborhood,High-income rate,0.549,income,Income,map,.0%,7,24
+West Hartford Center,West Hartford,1_neighborhood,High-income rate,0.679,income,Income,map,.0%,7,24
+Connecticut,,3_state,Total population,3588570,immigration,Immigration,table,",",1,25
+Hartford,,2_city,Total population,124320,immigration,Immigration,table,",",1,25
+West Hartford,,2_city,Total population,63187,immigration,Immigration,table,",",1,25
+Asylum Hill,Hartford,1_neighborhood,Total population,9609,immigration,Immigration,table,",",1,25
+Barry Square,Hartford,1_neighborhood,Total population,15752,immigration,Immigration,table,",",1,25
+Behind the Rocks,Hartford,1_neighborhood,Total population,8155,immigration,Immigration,table,",",1,25
+Blue Hills,Hartford,1_neighborhood,Total population,11640,immigration,Immigration,table,",",1,25
+Clay Arsenal,Hartford,1_neighborhood,Total population,7159,immigration,Immigration,table,",",1,25
+Downtown,Hartford,1_neighborhood,Total population,1986,immigration,Immigration,table,",",1,25
+Frog Hollow,Hartford,1_neighborhood,Total population,8871,immigration,Immigration,table,",",1,25
+Northeast,Hartford,1_neighborhood,Total population,11076,immigration,Immigration,table,",",1,25
+Parkville,Hartford,1_neighborhood,Total population,4613,immigration,Immigration,table,",",1,25
+Sheldon Charter Oak,Hartford,1_neighborhood,Total population,3252,immigration,Immigration,table,",",1,25
+South End & South Meadows,Hartford,1_neighborhood,Total population,14420,immigration,Immigration,table,",",1,25
+South Green,Hartford,1_neighborhood,Total population,2231,immigration,Immigration,table,",",1,25
+Southwest,Hartford,1_neighborhood,Total population,7508,immigration,Immigration,table,",",1,25
+Upper Albany,Hartford,1_neighborhood,Total population,7012,immigration,Immigration,table,",",1,25
+West End,Hartford,1_neighborhood,Total population,9931,immigration,Immigration,table,",",1,25
+Bishops Corner West,West Hartford,1_neighborhood,Total population,7952,immigration,Immigration,table,",",1,25
+Buena Vista,West Hartford,1_neighborhood,Total population,2630,immigration,Immigration,table,",",1,25
+Corbins Corner,West Hartford,1_neighborhood,Total population,4367,immigration,Immigration,table,",",1,25
+Elizabeth Park,West Hartford,1_neighborhood,Total population,4462,immigration,Immigration,table,",",1,25
+Farmington East,West Hartford,1_neighborhood,Total population,10603,immigration,Immigration,table,",",1,25
+Golf Acres,West Hartford,1_neighborhood,Total population,7345,immigration,Immigration,table,",",1,25
+Kennedy Park,West Hartford,1_neighborhood,Total population,3971,immigration,Immigration,table,",",1,25
+Mountain West,West Hartford,1_neighborhood,Total population,4453,immigration,Immigration,table,",",1,25
+New Park,West Hartford,1_neighborhood,Total population,6076,immigration,Immigration,table,",",1,25
+Rockledge,West Hartford,1_neighborhood,Total population,6433,immigration,Immigration,table,",",1,25
+West Hartford Center,West Hartford,1_neighborhood,Total population,4895,immigration,Immigration,table,",",1,25
+Connecticut,,3_state,Foreign-born population,503209,immigration,Immigration,table,",",2,26
+Hartford,,2_city,Foreign-born population,26382,immigration,Immigration,table,",",2,26
+West Hartford,,2_city,Foreign-born population,10867,immigration,Immigration,table,",",2,26
+Asylum Hill,Hartford,1_neighborhood,Foreign-born population,2698,immigration,Immigration,table,",",2,26
+Barry Square,Hartford,1_neighborhood,Foreign-born population,3237,immigration,Immigration,table,",",2,26
+Behind the Rocks,Hartford,1_neighborhood,Foreign-born population,1105,immigration,Immigration,table,",",2,26
+Blue Hills,Hartford,1_neighborhood,Foreign-born population,2954,immigration,Immigration,table,",",2,26
+Clay Arsenal,Hartford,1_neighborhood,Foreign-born population,688,immigration,Immigration,table,",",2,26
+Downtown,Hartford,1_neighborhood,Foreign-born population,478,immigration,Immigration,table,",",2,26
+Frog Hollow,Hartford,1_neighborhood,Foreign-born population,1310,immigration,Immigration,table,",",2,26
+Northeast,Hartford,1_neighborhood,Foreign-born population,1587,immigration,Immigration,table,",",2,26
+Parkville,Hartford,1_neighborhood,Foreign-born population,1341,immigration,Immigration,table,",",2,26
+Sheldon Charter Oak,Hartford,1_neighborhood,Foreign-born population,822,immigration,Immigration,table,",",2,26
+South End & South Meadows,Hartford,1_neighborhood,Foreign-born population,4024,immigration,Immigration,table,",",2,26
+South Green,Hartford,1_neighborhood,Foreign-born population,186,immigration,Immigration,table,",",2,26
+Southwest,Hartford,1_neighborhood,Foreign-born population,1324,immigration,Immigration,table,",",2,26
+Upper Albany,Hartford,1_neighborhood,Foreign-born population,1874,immigration,Immigration,table,",",2,26
+West End,Hartford,1_neighborhood,Foreign-born population,2707,immigration,Immigration,table,",",2,26
+Bishops Corner West,West Hartford,1_neighborhood,Foreign-born population,1242,immigration,Immigration,table,",",2,26
+Buena Vista,West Hartford,1_neighborhood,Foreign-born population,542,immigration,Immigration,table,",",2,26
+Corbins Corner,West Hartford,1_neighborhood,Foreign-born population,1108,immigration,Immigration,table,",",2,26
+Elizabeth Park,West Hartford,1_neighborhood,Foreign-born population,358,immigration,Immigration,table,",",2,26
+Farmington East,West Hartford,1_neighborhood,Foreign-born population,2005,immigration,Immigration,table,",",2,26
+Golf Acres,West Hartford,1_neighborhood,Foreign-born population,1067,immigration,Immigration,table,",",2,26
+Kennedy Park,West Hartford,1_neighborhood,Foreign-born population,1038,immigration,Immigration,table,",",2,26
+Mountain West,West Hartford,1_neighborhood,Foreign-born population,536,immigration,Immigration,table,",",2,26
+New Park,West Hartford,1_neighborhood,Foreign-born population,1804,immigration,Immigration,table,",",2,26
+Rockledge,West Hartford,1_neighborhood,Foreign-born population,754,immigration,Immigration,table,",",2,26
+West Hartford Center,West Hartford,1_neighborhood,Foreign-born population,413,immigration,Immigration,table,",",2,26
+Connecticut,,3_state,Percent foreign-born,0.14,immigration,Immigration,map,.0%,3,27
+Hartford,,2_city,Percent foreign-born,0.212,immigration,Immigration,map,.0%,3,27
+West Hartford,,2_city,Percent foreign-born,0.172,immigration,Immigration,map,.0%,3,27
+Asylum Hill,Hartford,1_neighborhood,Percent foreign-born,0.281,immigration,Immigration,map,.0%,3,27
+Barry Square,Hartford,1_neighborhood,Percent foreign-born,0.205,immigration,Immigration,map,.0%,3,27
+Behind the Rocks,Hartford,1_neighborhood,Percent foreign-born,0.135,immigration,Immigration,map,.0%,3,27
+Blue Hills,Hartford,1_neighborhood,Percent foreign-born,0.254,immigration,Immigration,map,.0%,3,27
+Clay Arsenal,Hartford,1_neighborhood,Percent foreign-born,0.096,immigration,Immigration,map,.0%,3,27
+Downtown,Hartford,1_neighborhood,Percent foreign-born,0.241,immigration,Immigration,map,.0%,3,27
+Frog Hollow,Hartford,1_neighborhood,Percent foreign-born,0.148,immigration,Immigration,map,.0%,3,27
+Northeast,Hartford,1_neighborhood,Percent foreign-born,0.143,immigration,Immigration,map,.0%,3,27
+Parkville,Hartford,1_neighborhood,Percent foreign-born,0.291,immigration,Immigration,map,.0%,3,27
+Sheldon Charter Oak,Hartford,1_neighborhood,Percent foreign-born,0.253,immigration,Immigration,map,.0%,3,27
+South End & South Meadows,Hartford,1_neighborhood,Percent foreign-born,0.279,immigration,Immigration,map,.0%,3,27
+South Green,Hartford,1_neighborhood,Percent foreign-born,0.083,immigration,Immigration,map,.0%,3,27
+Southwest,Hartford,1_neighborhood,Percent foreign-born,0.176,immigration,Immigration,map,.0%,3,27
+Upper Albany,Hartford,1_neighborhood,Percent foreign-born,0.267,immigration,Immigration,map,.0%,3,27
+West End,Hartford,1_neighborhood,Percent foreign-born,0.273,immigration,Immigration,map,.0%,3,27
+Bishops Corner West,West Hartford,1_neighborhood,Percent foreign-born,0.156,immigration,Immigration,map,.0%,3,27
+Buena Vista,West Hartford,1_neighborhood,Percent foreign-born,0.206,immigration,Immigration,map,.0%,3,27
+Corbins Corner,West Hartford,1_neighborhood,Percent foreign-born,0.254,immigration,Immigration,map,.0%,3,27
+Elizabeth Park,West Hartford,1_neighborhood,Percent foreign-born,0.08,immigration,Immigration,map,.0%,3,27
+Farmington East,West Hartford,1_neighborhood,Percent foreign-born,0.189,immigration,Immigration,map,.0%,3,27
+Golf Acres,West Hartford,1_neighborhood,Percent foreign-born,0.145,immigration,Immigration,map,.0%,3,27
+Kennedy Park,West Hartford,1_neighborhood,Percent foreign-born,0.261,immigration,Immigration,map,.0%,3,27
+Mountain West,West Hartford,1_neighborhood,Percent foreign-born,0.12,immigration,Immigration,map,.0%,3,27
+New Park,West Hartford,1_neighborhood,Percent foreign-born,0.297,immigration,Immigration,map,.0%,3,27
+Rockledge,West Hartford,1_neighborhood,Percent foreign-born,0.117,immigration,Immigration,map,.0%,3,27
+West Hartford Center,West Hartford,1_neighborhood,Percent foreign-born,0.084,immigration,Immigration,map,.0%,3,27
+Connecticut,,3_state,"Under 18, poverty status known",763850,income_kids,Income by age: children,table,",",1,28
+Hartford,,2_city,"Under 18, poverty status known",30358,income_kids,Income by age: children,table,",",1,28
+West Hartford,,2_city,"Under 18, poverty status known",14075,income_kids,Income by age: children,table,",",1,28
+Asylum Hill,Hartford,1_neighborhood,"Under 18, poverty status known",1739,income_kids,Income by age: children,table,",",1,28
+Barry Square,Hartford,1_neighborhood,"Under 18, poverty status known",3813,income_kids,Income by age: children,table,",",1,28
+Behind the Rocks,Hartford,1_neighborhood,"Under 18, poverty status known",2334,income_kids,Income by age: children,table,",",1,28
+Blue Hills,Hartford,1_neighborhood,"Under 18, poverty status known",2209,income_kids,Income by age: children,table,",",1,28
+Clay Arsenal,Hartford,1_neighborhood,"Under 18, poverty status known",2527,income_kids,Income by age: children,table,",",1,28
+Downtown,Hartford,1_neighborhood,"Under 18, poverty status known",36,income_kids,Income by age: children,table,",",1,28
+Frog Hollow,Hartford,1_neighborhood,"Under 18, poverty status known",2649,income_kids,Income by age: children,table,",",1,28
+Northeast,Hartford,1_neighborhood,"Under 18, poverty status known",3493,income_kids,Income by age: children,table,",",1,28
+Parkville,Hartford,1_neighborhood,"Under 18, poverty status known",1311,income_kids,Income by age: children,table,",",1,28
+Sheldon Charter Oak,Hartford,1_neighborhood,"Under 18, poverty status known",682,income_kids,Income by age: children,table,",",1,28
+South End & South Meadows,Hartford,1_neighborhood,"Under 18, poverty status known",3817,income_kids,Income by age: children,table,",",1,28
+South Green,Hartford,1_neighborhood,"Under 18, poverty status known",461,income_kids,Income by age: children,table,",",1,28
+Southwest,Hartford,1_neighborhood,"Under 18, poverty status known",1660,income_kids,Income by age: children,table,",",1,28
+Upper Albany,Hartford,1_neighborhood,"Under 18, poverty status known",2299,income_kids,Income by age: children,table,",",1,28
+West End,Hartford,1_neighborhood,"Under 18, poverty status known",1315,income_kids,Income by age: children,table,",",1,28
+Bishops Corner West,West Hartford,1_neighborhood,"Under 18, poverty status known",1925,income_kids,Income by age: children,table,",",1,28
+Buena Vista,West Hartford,1_neighborhood,"Under 18, poverty status known",542,income_kids,Income by age: children,table,",",1,28
+Corbins Corner,West Hartford,1_neighborhood,"Under 18, poverty status known",859,income_kids,Income by age: children,table,",",1,28
+Elizabeth Park,West Hartford,1_neighborhood,"Under 18, poverty status known",1166,income_kids,Income by age: children,table,",",1,28
+Farmington East,West Hartford,1_neighborhood,"Under 18, poverty status known",2040,income_kids,Income by age: children,table,",",1,28
+Golf Acres,West Hartford,1_neighborhood,"Under 18, poverty status known",1507,income_kids,Income by age: children,table,",",1,28
+Kennedy Park,West Hartford,1_neighborhood,"Under 18, poverty status known",868,income_kids,Income by age: children,table,",",1,28
+Mountain West,West Hartford,1_neighborhood,"Under 18, poverty status known",1207,income_kids,Income by age: children,table,",",1,28
+New Park,West Hartford,1_neighborhood,"Under 18, poverty status known",1164,income_kids,Income by age: children,table,",",1,28
+Rockledge,West Hartford,1_neighborhood,"Under 18, poverty status known",1632,income_kids,Income by age: children,table,",",1,28
+West Hartford Center,West Hartford,1_neighborhood,"Under 18, poverty status known",1165,income_kids,Income by age: children,table,",",1,28
+Connecticut,,3_state,Children in poverty,107690,income_kids,Income by age: children,table,",",2,29
+Hartford,,2_city,Children in poverty,13106,income_kids,Income by age: children,table,",",2,29
+West Hartford,,2_city,Children in poverty,1279,income_kids,Income by age: children,table,",",2,29
+Asylum Hill,Hartford,1_neighborhood,Children in poverty,713,income_kids,Income by age: children,table,",",2,29
+Barry Square,Hartford,1_neighborhood,Children in poverty,1995,income_kids,Income by age: children,table,",",2,29
+Behind the Rocks,Hartford,1_neighborhood,Children in poverty,1232,income_kids,Income by age: children,table,",",2,29
+Blue Hills,Hartford,1_neighborhood,Children in poverty,558,income_kids,Income by age: children,table,",",2,29
+Clay Arsenal,Hartford,1_neighborhood,Children in poverty,1296,income_kids,Income by age: children,table,",",2,29
+Downtown,Hartford,1_neighborhood,Children in poverty,0,income_kids,Income by age: children,table,",",2,29
+Frog Hollow,Hartford,1_neighborhood,Children in poverty,1469,income_kids,Income by age: children,table,",",2,29
+Northeast,Hartford,1_neighborhood,Children in poverty,1694,income_kids,Income by age: children,table,",",2,29
+Parkville,Hartford,1_neighborhood,Children in poverty,656,income_kids,Income by age: children,table,",",2,29
+Sheldon Charter Oak,Hartford,1_neighborhood,Children in poverty,225,income_kids,Income by age: children,table,",",2,29
+South End & South Meadows,Hartford,1_neighborhood,Children in poverty,1146,income_kids,Income by age: children,table,",",2,29
+South Green,Hartford,1_neighborhood,Children in poverty,244,income_kids,Income by age: children,table,",",2,29
+Southwest,Hartford,1_neighborhood,Children in poverty,415,income_kids,Income by age: children,table,",",2,29
+Upper Albany,Hartford,1_neighborhood,Children in poverty,1156,income_kids,Income by age: children,table,",",2,29
+West End,Hartford,1_neighborhood,Children in poverty,307,income_kids,Income by age: children,table,",",2,29
+Bishops Corner West,West Hartford,1_neighborhood,Children in poverty,257,income_kids,Income by age: children,table,",",2,29
+Buena Vista,West Hartford,1_neighborhood,Children in poverty,0,income_kids,Income by age: children,table,",",2,29
+Corbins Corner,West Hartford,1_neighborhood,Children in poverty,29,income_kids,Income by age: children,table,",",2,29
+Elizabeth Park,West Hartford,1_neighborhood,Children in poverty,28,income_kids,Income by age: children,table,",",2,29
+Farmington East,West Hartford,1_neighborhood,Children in poverty,440,income_kids,Income by age: children,table,",",2,29
+Golf Acres,West Hartford,1_neighborhood,Children in poverty,53,income_kids,Income by age: children,table,",",2,29
+Kennedy Park,West Hartford,1_neighborhood,Children in poverty,48,income_kids,Income by age: children,table,",",2,29
+Mountain West,West Hartford,1_neighborhood,Children in poverty,12,income_kids,Income by age: children,table,",",2,29
+New Park,West Hartford,1_neighborhood,Children in poverty,354,income_kids,Income by age: children,table,",",2,29
+Rockledge,West Hartford,1_neighborhood,Children in poverty,53,income_kids,Income by age: children,table,",",2,29
+West Hartford Center,West Hartford,1_neighborhood,Children in poverty,5,income_kids,Income by age: children,table,",",2,29
+Connecticut,,3_state,Child poverty rate,0.141,income_kids,Income by age: children,map,.0%,3,30
+Hartford,,2_city,Child poverty rate,0.432,income_kids,Income by age: children,map,.0%,3,30
+West Hartford,,2_city,Child poverty rate,0.091,income_kids,Income by age: children,map,.0%,3,30
+Asylum Hill,Hartford,1_neighborhood,Child poverty rate,0.41,income_kids,Income by age: children,map,.0%,3,30
+Barry Square,Hartford,1_neighborhood,Child poverty rate,0.523,income_kids,Income by age: children,map,.0%,3,30
+Behind the Rocks,Hartford,1_neighborhood,Child poverty rate,0.528,income_kids,Income by age: children,map,.0%,3,30
+Blue Hills,Hartford,1_neighborhood,Child poverty rate,0.253,income_kids,Income by age: children,map,.0%,3,30
+Clay Arsenal,Hartford,1_neighborhood,Child poverty rate,0.513,income_kids,Income by age: children,map,.0%,3,30
+Downtown,Hartford,1_neighborhood,Child poverty rate,0,income_kids,Income by age: children,map,.0%,3,30
+Frog Hollow,Hartford,1_neighborhood,Child poverty rate,0.555,income_kids,Income by age: children,map,.0%,3,30
+Northeast,Hartford,1_neighborhood,Child poverty rate,0.485,income_kids,Income by age: children,map,.0%,3,30
+Parkville,Hartford,1_neighborhood,Child poverty rate,0.5,income_kids,Income by age: children,map,.0%,3,30
+Sheldon Charter Oak,Hartford,1_neighborhood,Child poverty rate,0.33,income_kids,Income by age: children,map,.0%,3,30
+South End & South Meadows,Hartford,1_neighborhood,Child poverty rate,0.3,income_kids,Income by age: children,map,.0%,3,30
+South Green,Hartford,1_neighborhood,Child poverty rate,0.529,income_kids,Income by age: children,map,.0%,3,30
+Southwest,Hartford,1_neighborhood,Child poverty rate,0.25,income_kids,Income by age: children,map,.0%,3,30
+Upper Albany,Hartford,1_neighborhood,Child poverty rate,0.503,income_kids,Income by age: children,map,.0%,3,30
+West End,Hartford,1_neighborhood,Child poverty rate,0.233,income_kids,Income by age: children,map,.0%,3,30
+Bishops Corner West,West Hartford,1_neighborhood,Child poverty rate,0.134,income_kids,Income by age: children,map,.0%,3,30
+Buena Vista,West Hartford,1_neighborhood,Child poverty rate,0,income_kids,Income by age: children,map,.0%,3,30
+Corbins Corner,West Hartford,1_neighborhood,Child poverty rate,0.034,income_kids,Income by age: children,map,.0%,3,30
+Elizabeth Park,West Hartford,1_neighborhood,Child poverty rate,0.024,income_kids,Income by age: children,map,.0%,3,30
+Farmington East,West Hartford,1_neighborhood,Child poverty rate,0.216,income_kids,Income by age: children,map,.0%,3,30
+Golf Acres,West Hartford,1_neighborhood,Child poverty rate,0.035,income_kids,Income by age: children,map,.0%,3,30
+Kennedy Park,West Hartford,1_neighborhood,Child poverty rate,0.055,income_kids,Income by age: children,map,.0%,3,30
+Mountain West,West Hartford,1_neighborhood,Child poverty rate,0.01,income_kids,Income by age: children,map,.0%,3,30
+New Park,West Hartford,1_neighborhood,Child poverty rate,0.304,income_kids,Income by age: children,map,.0%,3,30
+Rockledge,West Hartford,1_neighborhood,Child poverty rate,0.032,income_kids,Income by age: children,map,.0%,3,30
+West Hartford Center,West Hartford,1_neighborhood,Child poverty rate,0.004,income_kids,Income by age: children,map,.0%,3,30
+Connecticut,,3_state,Low-income children,229817,income_kids,Income by age: children,table,",",4,31
+Hartford,,2_city,Low-income children,22653,income_kids,Income by age: children,table,",",4,31
+West Hartford,,2_city,Low-income children,2673,income_kids,Income by age: children,table,",",4,31
+Asylum Hill,Hartford,1_neighborhood,Low-income children,1327,income_kids,Income by age: children,table,",",4,31
+Barry Square,Hartford,1_neighborhood,Low-income children,3116,income_kids,Income by age: children,table,",",4,31
+Behind the Rocks,Hartford,1_neighborhood,Low-income children,1789,income_kids,Income by age: children,table,",",4,31
+Blue Hills,Hartford,1_neighborhood,Low-income children,1261,income_kids,Income by age: children,table,",",4,31
+Clay Arsenal,Hartford,1_neighborhood,Low-income children,2261,income_kids,Income by age: children,table,",",4,31
+Downtown,Hartford,1_neighborhood,Low-income children,0,income_kids,Income by age: children,table,",",4,31
+Frog Hollow,Hartford,1_neighborhood,Low-income children,2135,income_kids,Income by age: children,table,",",4,31
+Northeast,Hartford,1_neighborhood,Low-income children,2747,income_kids,Income by age: children,table,",",4,31
+Parkville,Hartford,1_neighborhood,Low-income children,1156,income_kids,Income by age: children,table,",",4,31
+Sheldon Charter Oak,Hartford,1_neighborhood,Low-income children,557,income_kids,Income by age: children,table,",",4,31
+South End & South Meadows,Hartford,1_neighborhood,Low-income children,2469,income_kids,Income by age: children,table,",",4,31
+South Green,Hartford,1_neighborhood,Low-income children,422,income_kids,Income by age: children,table,",",4,31
+Southwest,Hartford,1_neighborhood,Low-income children,890,income_kids,Income by age: children,table,",",4,31
+Upper Albany,Hartford,1_neighborhood,Low-income children,1844,income_kids,Income by age: children,table,",",4,31
+West End,Hartford,1_neighborhood,Low-income children,679,income_kids,Income by age: children,table,",",4,31
+Bishops Corner West,West Hartford,1_neighborhood,Low-income children,398,income_kids,Income by age: children,table,",",4,31
+Buena Vista,West Hartford,1_neighborhood,Low-income children,79,income_kids,Income by age: children,table,",",4,31
+Corbins Corner,West Hartford,1_neighborhood,Low-income children,138,income_kids,Income by age: children,table,",",4,31
+Elizabeth Park,West Hartford,1_neighborhood,Low-income children,34,income_kids,Income by age: children,table,",",4,31
+Farmington East,West Hartford,1_neighborhood,Low-income children,655,income_kids,Income by age: children,table,",",4,31
+Golf Acres,West Hartford,1_neighborhood,Low-income children,156,income_kids,Income by age: children,table,",",4,31
+Kennedy Park,West Hartford,1_neighborhood,Low-income children,409,income_kids,Income by age: children,table,",",4,31
+Mountain West,West Hartford,1_neighborhood,Low-income children,21,income_kids,Income by age: children,table,",",4,31
+New Park,West Hartford,1_neighborhood,Low-income children,598,income_kids,Income by age: children,table,",",4,31
+Rockledge,West Hartford,1_neighborhood,Low-income children,166,income_kids,Income by age: children,table,",",4,31
+West Hartford Center,West Hartford,1_neighborhood,Low-income children,19,income_kids,Income by age: children,table,",",4,31
+Connecticut,,3_state,Child low-income rate,0.301,income_kids,Income by age: children,map,.0%,5,32
+Hartford,,2_city,Child low-income rate,0.746,income_kids,Income by age: children,map,.0%,5,32
+West Hartford,,2_city,Child low-income rate,0.19,income_kids,Income by age: children,map,.0%,5,32
+Asylum Hill,Hartford,1_neighborhood,Child low-income rate,0.763,income_kids,Income by age: children,map,.0%,5,32
+Barry Square,Hartford,1_neighborhood,Child low-income rate,0.817,income_kids,Income by age: children,map,.0%,5,32
+Behind the Rocks,Hartford,1_neighborhood,Child low-income rate,0.766,income_kids,Income by age: children,map,.0%,5,32
+Blue Hills,Hartford,1_neighborhood,Child low-income rate,0.571,income_kids,Income by age: children,map,.0%,5,32
+Clay Arsenal,Hartford,1_neighborhood,Child low-income rate,0.895,income_kids,Income by age: children,map,.0%,5,32
+Downtown,Hartford,1_neighborhood,Child low-income rate,0,income_kids,Income by age: children,map,.0%,5,32
+Frog Hollow,Hartford,1_neighborhood,Child low-income rate,0.806,income_kids,Income by age: children,map,.0%,5,32
+Northeast,Hartford,1_neighborhood,Child low-income rate,0.786,income_kids,Income by age: children,map,.0%,5,32
+Parkville,Hartford,1_neighborhood,Child low-income rate,0.882,income_kids,Income by age: children,map,.0%,5,32
+Sheldon Charter Oak,Hartford,1_neighborhood,Child low-income rate,0.817,income_kids,Income by age: children,map,.0%,5,32
+South End & South Meadows,Hartford,1_neighborhood,Child low-income rate,0.647,income_kids,Income by age: children,map,.0%,5,32
+South Green,Hartford,1_neighborhood,Child low-income rate,0.915,income_kids,Income by age: children,map,.0%,5,32
+Southwest,Hartford,1_neighborhood,Child low-income rate,0.536,income_kids,Income by age: children,map,.0%,5,32
+Upper Albany,Hartford,1_neighborhood,Child low-income rate,0.802,income_kids,Income by age: children,map,.0%,5,32
+West End,Hartford,1_neighborhood,Child low-income rate,0.516,income_kids,Income by age: children,map,.0%,5,32
+Bishops Corner West,West Hartford,1_neighborhood,Child low-income rate,0.207,income_kids,Income by age: children,map,.0%,5,32
+Buena Vista,West Hartford,1_neighborhood,Child low-income rate,0.146,income_kids,Income by age: children,map,.0%,5,32
+Corbins Corner,West Hartford,1_neighborhood,Child low-income rate,0.161,income_kids,Income by age: children,map,.0%,5,32
+Elizabeth Park,West Hartford,1_neighborhood,Child low-income rate,0.029,income_kids,Income by age: children,map,.0%,5,32
+Farmington East,West Hartford,1_neighborhood,Child low-income rate,0.321,income_kids,Income by age: children,map,.0%,5,32
+Golf Acres,West Hartford,1_neighborhood,Child low-income rate,0.104,income_kids,Income by age: children,map,.0%,5,32
+Kennedy Park,West Hartford,1_neighborhood,Child low-income rate,0.471,income_kids,Income by age: children,map,.0%,5,32
+Mountain West,West Hartford,1_neighborhood,Child low-income rate,0.017,income_kids,Income by age: children,map,.0%,5,32
+New Park,West Hartford,1_neighborhood,Child low-income rate,0.514,income_kids,Income by age: children,map,.0%,5,32
+Rockledge,West Hartford,1_neighborhood,Child low-income rate,0.102,income_kids,Income by age: children,map,.0%,5,32
+West Hartford Center,West Hartford,1_neighborhood,Child low-income rate,0.016,income_kids,Income by age: children,map,.0%,5,32
+Connecticut,,3_state,"Ages 65+, poverty status known",533413,income_seniors,Income by age: seniors,table,",",1,33
+Hartford,,2_city,"Ages 65+, poverty status known",11801,income_seniors,Income by age: seniors,table,",",1,33
+West Hartford,,2_city,"Ages 65+, poverty status known",10339,income_seniors,Income by age: seniors,table,",",1,33
+Asylum Hill,Hartford,1_neighborhood,"Ages 65+, poverty status known",950,income_seniors,Income by age: seniors,table,",",1,33
+Barry Square,Hartford,1_neighborhood,"Ages 65+, poverty status known",1102,income_seniors,Income by age: seniors,table,",",1,33
+Behind the Rocks,Hartford,1_neighborhood,"Ages 65+, poverty status known",680,income_seniors,Income by age: seniors,table,",",1,33
+Blue Hills,Hartford,1_neighborhood,"Ages 65+, poverty status known",1439,income_seniors,Income by age: seniors,table,",",1,33
+Clay Arsenal,Hartford,1_neighborhood,"Ages 65+, poverty status known",530,income_seniors,Income by age: seniors,table,",",1,33
+Downtown,Hartford,1_neighborhood,"Ages 65+, poverty status known",203,income_seniors,Income by age: seniors,table,",",1,33
+Frog Hollow,Hartford,1_neighborhood,"Ages 65+, poverty status known",708,income_seniors,Income by age: seniors,table,",",1,33
+Northeast,Hartford,1_neighborhood,"Ages 65+, poverty status known",1045,income_seniors,Income by age: seniors,table,",",1,33
+Parkville,Hartford,1_neighborhood,"Ages 65+, poverty status known",483,income_seniors,Income by age: seniors,table,",",1,33
+Sheldon Charter Oak,Hartford,1_neighborhood,"Ages 65+, poverty status known",465,income_seniors,Income by age: seniors,table,",",1,33
+South End & South Meadows,Hartford,1_neighborhood,"Ages 65+, poverty status known",1114,income_seniors,Income by age: seniors,table,",",1,33
+South Green,Hartford,1_neighborhood,"Ages 65+, poverty status known",287,income_seniors,Income by age: seniors,table,",",1,33
+Southwest,Hartford,1_neighborhood,"Ages 65+, poverty status known",906,income_seniors,Income by age: seniors,table,",",1,33
+Upper Albany,Hartford,1_neighborhood,"Ages 65+, poverty status known",738,income_seniors,Income by age: seniors,table,",",1,33
+West End,Hartford,1_neighborhood,"Ages 65+, poverty status known",1151,income_seniors,Income by age: seniors,table,",",1,33
+Bishops Corner West,West Hartford,1_neighborhood,"Ages 65+, poverty status known",1626,income_seniors,Income by age: seniors,table,",",1,33
+Buena Vista,West Hartford,1_neighborhood,"Ages 65+, poverty status known",636,income_seniors,Income by age: seniors,table,",",1,33
+Corbins Corner,West Hartford,1_neighborhood,"Ages 65+, poverty status known",843,income_seniors,Income by age: seniors,table,",",1,33
+Elizabeth Park,West Hartford,1_neighborhood,"Ages 65+, poverty status known",760,income_seniors,Income by age: seniors,table,",",1,33
+Farmington East,West Hartford,1_neighborhood,"Ages 65+, poverty status known",1724,income_seniors,Income by age: seniors,table,",",1,33
+Golf Acres,West Hartford,1_neighborhood,"Ages 65+, poverty status known",1277,income_seniors,Income by age: seniors,table,",",1,33
+Kennedy Park,West Hartford,1_neighborhood,"Ages 65+, poverty status known",370,income_seniors,Income by age: seniors,table,",",1,33
+Mountain West,West Hartford,1_neighborhood,"Ages 65+, poverty status known",777,income_seniors,Income by age: seniors,table,",",1,33
+New Park,West Hartford,1_neighborhood,"Ages 65+, poverty status known",647,income_seniors,Income by age: seniors,table,",",1,33
+Rockledge,West Hartford,1_neighborhood,"Ages 65+, poverty status known",1020,income_seniors,Income by age: seniors,table,",",1,33
+West Hartford Center,West Hartford,1_neighborhood,"Ages 65+, poverty status known",659,income_seniors,Income by age: seniors,table,",",1,33
+Connecticut,,3_state,Seniors in poverty,38003,income_seniors,Income by age: seniors,table,",",2,34
+Hartford,,2_city,Seniors in poverty,3016,income_seniors,Income by age: seniors,table,",",2,34
+West Hartford,,2_city,Seniors in poverty,818,income_seniors,Income by age: seniors,table,",",2,34
+Asylum Hill,Hartford,1_neighborhood,Seniors in poverty,196,income_seniors,Income by age: seniors,table,",",2,34
+Barry Square,Hartford,1_neighborhood,Seniors in poverty,264,income_seniors,Income by age: seniors,table,",",2,34
+Behind the Rocks,Hartford,1_neighborhood,Seniors in poverty,144,income_seniors,Income by age: seniors,table,",",2,34
+Blue Hills,Hartford,1_neighborhood,Seniors in poverty,179,income_seniors,Income by age: seniors,table,",",2,34
+Clay Arsenal,Hartford,1_neighborhood,Seniors in poverty,174,income_seniors,Income by age: seniors,table,",",2,34
+Downtown,Hartford,1_neighborhood,Seniors in poverty,1,income_seniors,Income by age: seniors,table,",",2,34
+Frog Hollow,Hartford,1_neighborhood,Seniors in poverty,311,income_seniors,Income by age: seniors,table,",",2,34
+Northeast,Hartford,1_neighborhood,Seniors in poverty,239,income_seniors,Income by age: seniors,table,",",2,34
+Parkville,Hartford,1_neighborhood,Seniors in poverty,159,income_seniors,Income by age: seniors,table,",",2,34
+Sheldon Charter Oak,Hartford,1_neighborhood,Seniors in poverty,222,income_seniors,Income by age: seniors,table,",",2,34
+South End & South Meadows,Hartford,1_neighborhood,Seniors in poverty,205,income_seniors,Income by age: seniors,table,",",2,34
+South Green,Hartford,1_neighborhood,Seniors in poverty,129,income_seniors,Income by age: seniors,table,",",2,34
+Southwest,Hartford,1_neighborhood,Seniors in poverty,125,income_seniors,Income by age: seniors,table,",",2,34
+Upper Albany,Hartford,1_neighborhood,Seniors in poverty,261,income_seniors,Income by age: seniors,table,",",2,34
+West End,Hartford,1_neighborhood,Seniors in poverty,407,income_seniors,Income by age: seniors,table,",",2,34
+Bishops Corner West,West Hartford,1_neighborhood,Seniors in poverty,194,income_seniors,Income by age: seniors,table,",",2,34
+Buena Vista,West Hartford,1_neighborhood,Seniors in poverty,41,income_seniors,Income by age: seniors,table,",",2,34
+Corbins Corner,West Hartford,1_neighborhood,Seniors in poverty,48,income_seniors,Income by age: seniors,table,",",2,34
+Elizabeth Park,West Hartford,1_neighborhood,Seniors in poverty,44,income_seniors,Income by age: seniors,table,",",2,34
+Farmington East,West Hartford,1_neighborhood,Seniors in poverty,200,income_seniors,Income by age: seniors,table,",",2,34
+Golf Acres,West Hartford,1_neighborhood,Seniors in poverty,72,income_seniors,Income by age: seniors,table,",",2,34
+Kennedy Park,West Hartford,1_neighborhood,Seniors in poverty,38,income_seniors,Income by age: seniors,table,",",2,34
+Mountain West,West Hartford,1_neighborhood,Seniors in poverty,16,income_seniors,Income by age: seniors,table,",",2,34
+New Park,West Hartford,1_neighborhood,Seniors in poverty,79,income_seniors,Income by age: seniors,table,",",2,34
+Rockledge,West Hartford,1_neighborhood,Seniors in poverty,64,income_seniors,Income by age: seniors,table,",",2,34
+West Hartford Center,West Hartford,1_neighborhood,Seniors in poverty,22,income_seniors,Income by age: seniors,table,",",2,34
+Connecticut,,3_state,Senior poverty rate,0.071,income_seniors,Income by age: seniors,map,.0%,3,35
+Hartford,,2_city,Senior poverty rate,0.256,income_seniors,Income by age: seniors,map,.0%,3,35
+West Hartford,,2_city,Senior poverty rate,0.079,income_seniors,Income by age: seniors,map,.0%,3,35
+Asylum Hill,Hartford,1_neighborhood,Senior poverty rate,0.206,income_seniors,Income by age: seniors,map,.0%,3,35
+Barry Square,Hartford,1_neighborhood,Senior poverty rate,0.24,income_seniors,Income by age: seniors,map,.0%,3,35
+Behind the Rocks,Hartford,1_neighborhood,Senior poverty rate,0.212,income_seniors,Income by age: seniors,map,.0%,3,35
+Blue Hills,Hartford,1_neighborhood,Senior poverty rate,0.124,income_seniors,Income by age: seniors,map,.0%,3,35
+Clay Arsenal,Hartford,1_neighborhood,Senior poverty rate,0.328,income_seniors,Income by age: seniors,map,.0%,3,35
+Downtown,Hartford,1_neighborhood,Senior poverty rate,0.005,income_seniors,Income by age: seniors,map,.0%,3,35
+Frog Hollow,Hartford,1_neighborhood,Senior poverty rate,0.439,income_seniors,Income by age: seniors,map,.0%,3,35
+Northeast,Hartford,1_neighborhood,Senior poverty rate,0.229,income_seniors,Income by age: seniors,map,.0%,3,35
+Parkville,Hartford,1_neighborhood,Senior poverty rate,0.329,income_seniors,Income by age: seniors,map,.0%,3,35
+Sheldon Charter Oak,Hartford,1_neighborhood,Senior poverty rate,0.477,income_seniors,Income by age: seniors,map,.0%,3,35
+South End & South Meadows,Hartford,1_neighborhood,Senior poverty rate,0.184,income_seniors,Income by age: seniors,map,.0%,3,35
+South Green,Hartford,1_neighborhood,Senior poverty rate,0.449,income_seniors,Income by age: seniors,map,.0%,3,35
+Southwest,Hartford,1_neighborhood,Senior poverty rate,0.138,income_seniors,Income by age: seniors,map,.0%,3,35
+Upper Albany,Hartford,1_neighborhood,Senior poverty rate,0.354,income_seniors,Income by age: seniors,map,.0%,3,35
+West End,Hartford,1_neighborhood,Senior poverty rate,0.354,income_seniors,Income by age: seniors,map,.0%,3,35
+Bishops Corner West,West Hartford,1_neighborhood,Senior poverty rate,0.119,income_seniors,Income by age: seniors,map,.0%,3,35
+Buena Vista,West Hartford,1_neighborhood,Senior poverty rate,0.064,income_seniors,Income by age: seniors,map,.0%,3,35
+Corbins Corner,West Hartford,1_neighborhood,Senior poverty rate,0.057,income_seniors,Income by age: seniors,map,.0%,3,35
+Elizabeth Park,West Hartford,1_neighborhood,Senior poverty rate,0.058,income_seniors,Income by age: seniors,map,.0%,3,35
+Farmington East,West Hartford,1_neighborhood,Senior poverty rate,0.116,income_seniors,Income by age: seniors,map,.0%,3,35
+Golf Acres,West Hartford,1_neighborhood,Senior poverty rate,0.056,income_seniors,Income by age: seniors,map,.0%,3,35
+Kennedy Park,West Hartford,1_neighborhood,Senior poverty rate,0.103,income_seniors,Income by age: seniors,map,.0%,3,35
+Mountain West,West Hartford,1_neighborhood,Senior poverty rate,0.021,income_seniors,Income by age: seniors,map,.0%,3,35
+New Park,West Hartford,1_neighborhood,Senior poverty rate,0.122,income_seniors,Income by age: seniors,map,.0%,3,35
+Rockledge,West Hartford,1_neighborhood,Senior poverty rate,0.063,income_seniors,Income by age: seniors,map,.0%,3,35
+West Hartford Center,West Hartford,1_neighborhood,Senior poverty rate,0.033,income_seniors,Income by age: seniors,map,.0%,3,35
+Connecticut,,3_state,Low-income seniors,122224,income_seniors,Income by age: seniors,table,",",4,36
+Hartford,,2_city,Low-income seniors,6439,income_seniors,Income by age: seniors,table,",",4,36
+West Hartford,,2_city,Low-income seniors,2070,income_seniors,Income by age: seniors,table,",",4,36
+Asylum Hill,Hartford,1_neighborhood,Low-income seniors,512,income_seniors,Income by age: seniors,table,",",4,36
+Barry Square,Hartford,1_neighborhood,Low-income seniors,640,income_seniors,Income by age: seniors,table,",",4,36
+Behind the Rocks,Hartford,1_neighborhood,Low-income seniors,270,income_seniors,Income by age: seniors,table,",",4,36
+Blue Hills,Hartford,1_neighborhood,Low-income seniors,513,income_seniors,Income by age: seniors,table,",",4,36
+Clay Arsenal,Hartford,1_neighborhood,Low-income seniors,390,income_seniors,Income by age: seniors,table,",",4,36
+Downtown,Hartford,1_neighborhood,Low-income seniors,10,income_seniors,Income by age: seniors,table,",",4,36
+Frog Hollow,Hartford,1_neighborhood,Low-income seniors,570,income_seniors,Income by age: seniors,table,",",4,36
+Northeast,Hartford,1_neighborhood,Low-income seniors,547,income_seniors,Income by age: seniors,table,",",4,36
+Parkville,Hartford,1_neighborhood,Low-income seniors,376,income_seniors,Income by age: seniors,table,",",4,36
+Sheldon Charter Oak,Hartford,1_neighborhood,Low-income seniors,348,income_seniors,Income by age: seniors,table,",",4,36
+South End & South Meadows,Hartford,1_neighborhood,Low-income seniors,468,income_seniors,Income by age: seniors,table,",",4,36
+South Green,Hartford,1_neighborhood,Low-income seniors,244,income_seniors,Income by age: seniors,table,",",4,36
+Southwest,Hartford,1_neighborhood,Low-income seniors,401,income_seniors,Income by age: seniors,table,",",4,36
+Upper Albany,Hartford,1_neighborhood,Low-income seniors,493,income_seniors,Income by age: seniors,table,",",4,36
+West End,Hartford,1_neighborhood,Low-income seniors,657,income_seniors,Income by age: seniors,table,",",4,36
+Bishops Corner West,West Hartford,1_neighborhood,Low-income seniors,405,income_seniors,Income by age: seniors,table,",",4,36
+Buena Vista,West Hartford,1_neighborhood,Low-income seniors,120,income_seniors,Income by age: seniors,table,",",4,36
+Corbins Corner,West Hartford,1_neighborhood,Low-income seniors,167,income_seniors,Income by age: seniors,table,",",4,36
+Elizabeth Park,West Hartford,1_neighborhood,Low-income seniors,114,income_seniors,Income by age: seniors,table,",",4,36
+Farmington East,West Hartford,1_neighborhood,Low-income seniors,428,income_seniors,Income by age: seniors,table,",",4,36
+Golf Acres,West Hartford,1_neighborhood,Low-income seniors,185,income_seniors,Income by age: seniors,table,",",4,36
+Kennedy Park,West Hartford,1_neighborhood,Low-income seniors,145,income_seniors,Income by age: seniors,table,",",4,36
+Mountain West,West Hartford,1_neighborhood,Low-income seniors,92,income_seniors,Income by age: seniors,table,",",4,36
+New Park,West Hartford,1_neighborhood,Low-income seniors,159,income_seniors,Income by age: seniors,table,",",4,36
+Rockledge,West Hartford,1_neighborhood,Low-income seniors,169,income_seniors,Income by age: seniors,table,",",4,36
+West Hartford Center,West Hartford,1_neighborhood,Low-income seniors,86,income_seniors,Income by age: seniors,table,",",4,36
+Connecticut,,3_state,Senior low-income rate,0.229,income_seniors,Income by age: seniors,map,.0%,5,37
+Hartford,,2_city,Senior low-income rate,0.546,income_seniors,Income by age: seniors,map,.0%,5,37
+West Hartford,,2_city,Senior low-income rate,0.2,income_seniors,Income by age: seniors,map,.0%,5,37
+Asylum Hill,Hartford,1_neighborhood,Senior low-income rate,0.539,income_seniors,Income by age: seniors,map,.0%,5,37
+Barry Square,Hartford,1_neighborhood,Senior low-income rate,0.581,income_seniors,Income by age: seniors,map,.0%,5,37
+Behind the Rocks,Hartford,1_neighborhood,Senior low-income rate,0.397,income_seniors,Income by age: seniors,map,.0%,5,37
+Blue Hills,Hartford,1_neighborhood,Senior low-income rate,0.356,income_seniors,Income by age: seniors,map,.0%,5,37
+Clay Arsenal,Hartford,1_neighborhood,Senior low-income rate,0.736,income_seniors,Income by age: seniors,map,.0%,5,37
+Downtown,Hartford,1_neighborhood,Senior low-income rate,0.049,income_seniors,Income by age: seniors,map,.0%,5,37
+Frog Hollow,Hartford,1_neighborhood,Senior low-income rate,0.805,income_seniors,Income by age: seniors,map,.0%,5,37
+Northeast,Hartford,1_neighborhood,Senior low-income rate,0.523,income_seniors,Income by age: seniors,map,.0%,5,37
+Parkville,Hartford,1_neighborhood,Senior low-income rate,0.778,income_seniors,Income by age: seniors,map,.0%,5,37
+Sheldon Charter Oak,Hartford,1_neighborhood,Senior low-income rate,0.748,income_seniors,Income by age: seniors,map,.0%,5,37
+South End & South Meadows,Hartford,1_neighborhood,Senior low-income rate,0.42,income_seniors,Income by age: seniors,map,.0%,5,37
+South Green,Hartford,1_neighborhood,Senior low-income rate,0.85,income_seniors,Income by age: seniors,map,.0%,5,37
+Southwest,Hartford,1_neighborhood,Senior low-income rate,0.443,income_seniors,Income by age: seniors,map,.0%,5,37
+Upper Albany,Hartford,1_neighborhood,Senior low-income rate,0.668,income_seniors,Income by age: seniors,map,.0%,5,37
+West End,Hartford,1_neighborhood,Senior low-income rate,0.571,income_seniors,Income by age: seniors,map,.0%,5,37
+Bishops Corner West,West Hartford,1_neighborhood,Senior low-income rate,0.249,income_seniors,Income by age: seniors,map,.0%,5,37
+Buena Vista,West Hartford,1_neighborhood,Senior low-income rate,0.189,income_seniors,Income by age: seniors,map,.0%,5,37
+Corbins Corner,West Hartford,1_neighborhood,Senior low-income rate,0.198,income_seniors,Income by age: seniors,map,.0%,5,37
+Elizabeth Park,West Hartford,1_neighborhood,Senior low-income rate,0.15,income_seniors,Income by age: seniors,map,.0%,5,37
+Farmington East,West Hartford,1_neighborhood,Senior low-income rate,0.248,income_seniors,Income by age: seniors,map,.0%,5,37
+Golf Acres,West Hartford,1_neighborhood,Senior low-income rate,0.145,income_seniors,Income by age: seniors,map,.0%,5,37
+Kennedy Park,West Hartford,1_neighborhood,Senior low-income rate,0.392,income_seniors,Income by age: seniors,map,.0%,5,37
+Mountain West,West Hartford,1_neighborhood,Senior low-income rate,0.118,income_seniors,Income by age: seniors,map,.0%,5,37
+New Park,West Hartford,1_neighborhood,Senior low-income rate,0.246,income_seniors,Income by age: seniors,map,.0%,5,37
+Rockledge,West Hartford,1_neighborhood,Senior low-income rate,0.166,income_seniors,Income by age: seniors,map,.0%,5,37
+West Hartford Center,West Hartford,1_neighborhood,Senior low-income rate,0.131,income_seniors,Income by age: seniors,map,.0%,5,37
