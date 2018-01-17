@@ -2,7 +2,7 @@
   "name": "hfd2016",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://camille-s.github.io/hfd2016",
+  "homepage": "https://ct-data-haven.github.io/hfd2016",
   "dependencies": {
     "@vx/axis": "0.0.147",
     "@vx/geo": "0.0.150",
