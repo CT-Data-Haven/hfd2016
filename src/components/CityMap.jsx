@@ -1,5 +1,4 @@
 import React from 'react';
-import * as _ from 'underscore';
 import { Mercator } from '@vx/geo';
 import { ScaleSVG } from '@vx/responsive';
 import { LegendThreshold } from '@vx/legend';
