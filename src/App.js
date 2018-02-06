@@ -57,12 +57,12 @@ class App extends React.Component {
 		this.updateMenus(this.state.topic, e.target.value);
 	};
 
-	handleShapeClick = (e) => {
-		if (e.properties.Neighborhood === 'North Meadows') {
+	handleShapeClick = (hood) => {
+		if (hood === 'North Meadows') {
 			return;
 		}
 		this.setState({
-			hood: e.properties.Neighborhood
+			hood
 		});
 	};
 

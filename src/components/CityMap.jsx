@@ -38,7 +38,7 @@ export default class CityMap extends React.Component {
 	onEachFeature = (feature, layer) => {
 		let name = feature.properties.Neighborhood;
 
-		layer.on('click', this.props.handleClick)
+		layer.on('click', () => this.props.handleClick(name))
 			.on('mouseover', this.addHilite)
 			.on('mouseout', this.removeHilite);
 		layer.bindTooltip(() => {
