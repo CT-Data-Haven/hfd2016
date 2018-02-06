@@ -26,6 +26,8 @@ export const loadData = (callback = _.noop) => {
 const cleanData = (data) => {
 	data.forEach((d) => {
 		d.value = +d.value;
+		d.topicOrder = +d.topicOrder;
+		d.order = +d.order;
 		let dataFormat = format(d.format);
 		d.displayVal = dataFormat(d.value);
 	});
