@@ -8,7 +8,7 @@ const Intro = () => (
 		<h1>Hartford / West Hartford Neighborhood Profiles, 2016</h1>
 		<Alert bsStyle="info">
 			<p>{text}</p>
-			<p>For more information on Connecticut's communities and cities, visit DataHaven's <a href="http://www.ctdatahaven.org/communities">Communities</a> page or <a href="http://www.ctdatahaven.org">main website</a>.</p>
+			<p>For more information on Connecticut's communities and cities, visit DataHaven's <a href="http://www.ctdatahaven.org/communities" target="_blank">Communities</a> page or <a href="http://www.ctdatahaven.org" target="_blank">main website</a>.</p>
 		</Alert>
 	</div>
 );
