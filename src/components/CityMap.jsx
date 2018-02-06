@@ -48,7 +48,7 @@ export default class CityMap extends React.Component {
 
 	addHilite = (e) => {
 		e.target.setStyle({
-			fillOpacity: 95,
+			fillOpacity: 0.95,
 			weight: 1
 		});
 		// .bringToFront();
